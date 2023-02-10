@@ -1,0 +1,78 @@
+[{
+  "guid": "lckdzm5z7x1dlnwxs1v",
+  "to": "Moncy",
+  "amount": 15000,
+  "reason": "Hospital & Visa expenses",
+  "date": {
+    "$date": {
+      "$numberLong": "1671813300000"
+    }
+  },
+  "isPaid": true
+},{
+  "guid": "lcke0jldt3nc79bj8r",
+  "to": "Eldhose",
+  "amount": 125000,
+  "reason": "Old debt",
+  "date": {
+    "$date": {
+      "$numberLong": "1577817000000"
+    }
+  },
+  "isPaid": false
+},{
+  "guid": "lcke1npi6fn1rliynq9",
+  "to": "Eldhose",
+  "amount": 25000,
+  "reason": "Old debt",
+  "date": {
+    "$date": {
+      "$numberLong": "1651420800000"
+    }
+  },
+  "isPaid": true
+},{
+  "guid": "lcke23x73kh2znla4fw",
+  "to": "Eldhose",
+  "amount": 25000,
+  "reason": "Old debt",
+  "date": {
+    "$date": {
+      "$numberLong": "1651492500000"
+    }
+  },
+  "isPaid": true
+},{
+  "guid": "lcke2jcl2pw64i4pcjv",
+  "to": "Eldhose",
+  "amount": 25000,
+  "reason": "Old debt",
+  "date": {
+    "$date": {
+      "$numberLong": "1665480600000"
+    }
+  },
+  "isPaid": true
+},{
+  "guid": "lcke2x8bhbnghwv2ge",
+  "to": "Eldhose",
+  "amount": 25000,
+  "reason": "Old debt",
+  "date": {
+    "$date": {
+      "$numberLong": "1668174600000"
+    }
+  },
+  "isPaid": true
+},{
+  "guid": "lcke39kn5dy65u3mgx",
+  "to": "Eldhose",
+  "amount": 25000,
+  "reason": "Old debt",
+  "date": {
+    "$date": {
+      "$numberLong": "1670835120000"
+    }
+  },
+  "isPaid": true
+}]

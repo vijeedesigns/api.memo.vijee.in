@@ -1,0 +1,4864 @@
+[{
+  "guid": "l8d2vovxuwld9bbhe7o",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "867349800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Anagha Vijeesh",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovxcqs7asmq1sh",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "648498600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Vijeesh PN",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovydznw1swjkv",
+  "type": "WEDDING ANNIVERSARY",
+  "date": {
+    "$date": {
+      "$numberLong": "495052200000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Bijin FTS",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovyffxu4tgndnm",
+  "type": "WEDDING ANNIVERSARY",
+  "date": {
+    "$date": {
+      "$numberLong": "1603045800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Vijeesh & Anagha",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovyf4dwxidjdmh",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "904329000000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Ajay Ashok",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovx0h92ip3t111",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "648930600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Teena FTS",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovzkrr95s0wnb",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1643135400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Republic Day",
+  "time": 0,
+  "duration": 0,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovzh9kkr4qk2mt",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1649961000000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Good Friday",
+  "time": 0,
+  "duration": 0,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovz0txy1g7gfhap",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1642098600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Pongal/Sankrant",
+  "time": 0,
+  "duration": 0,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovyhshed642q55",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "720901800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Kiran FTS",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovy4l4x0wtbcbf",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "627935400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Sminju FTS",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vow06lk4bhzzp26",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1664908200000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Vijaya Dashami",
+  "time": 0,
+  "duration": 0,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vow0lmagr2yojk",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1643135400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Republic Day",
+  "time": 0,
+  "duration": 0,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vow07cdn57ofvfe",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1666549800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Diwali",
+  "time": 0,
+  "duration": 0,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vow0e1l0cz5sb4g",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1661884200000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Ganesh Chaturthi",
+  "time": 0,
+  "duration": 0,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vow02baot6i3ge",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1660847400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Janmashtami",
+  "time": 0,
+  "duration": 0,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovynuwx358zjil",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1628620200000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Rudranandha Vijeesh",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vow1xaffdgsy9r",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1655231400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Elixr Annual Day",
+  "time": 0,
+  "duration": 0,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vow1vm9paywkjj",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1662489000000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "First Onam",
+  "time": 0,
+  "duration": 0,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovy6pj1jy0nr7c",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "588709800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Libin FTS",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vow29ufigflw7o5",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1662661800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Third Onam",
+  "time": 0,
+  "duration": 0,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vow1h2l13wrs1j",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1662575400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Thiruvonam",
+  "time": 0,
+  "duration": 0,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vow2ajqkscts73",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1666636200000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Deepavali",
+  "time": 0,
+  "duration": 0,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovyu9u5yi08qgj",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "810930600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Gokul VG",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vow2py1ph2yzp9o",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "-453101400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Bhargavi Narayanan",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovy872gckin0xq",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "810671400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Sujith MA",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la0rsv7w9iu6hjmqzp7",
+  "type": "WEDDING ANNIVERSARY",
+  "date": {
+    "$date": {
+      "$numberLong": "1540578600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Renjith & Shruthy",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la0rsv7wrm2tj1z10o",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "783196200000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Sachin FTS",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la0rsv7w9xo663mihbh",
+  "type": "HOUSE WARMING",
+  "date": {
+    "$date": {
+      "$numberLong": "1668882600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "House warming - Thulasi FTS",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la0rsv7x3gnt0dyww5i",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1680719400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Thursday",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la0rsv7ycm96afjcqct",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1693247400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Thiruonam",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la0rsv7xiz6659pob4s",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1676658600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Siva rathri",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la0rsv7x9zfsddcjobu",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1680805800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Good friday",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la0rsv7xe8xpgc7mi2h",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1682015400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Eid ul ftr",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la0rsv7ymaflfwjl17",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1690482600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Muharam",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la0rsv7ynpl2ejq16zo",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1687890600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Bakrid",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la0rsv7ywk8r8mpq1m",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1693161000000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "First Onam",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la0rsv7zbf5is4jvqsd",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1693333800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Third onam",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la0rsv7x9nbmwvoy9b9",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1681497000000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Vishu",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la0rsv7zbcd06jzyoy7",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1694197800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Krishnashtami",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la0rsv7zpt4e9lbefvn",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1695321000000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Sree narayana guru jayanthi",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la0rsv7zkizeop62dgk",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1695753000000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Nabi day",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vow1jao994260q",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1649961000000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Good Friday/Vishu",
+  "time": 0,
+  "duration": 0,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "laht3bkh5duqs7trtt",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1667759400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Demo - Bootstrap theme switching - SCSS build and deployment",
+  "time": 1080,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "https://mhb.webex.com/join/brian.mckee\nAgenda\n1. Bootstrap theme switching\n2. SCSS build and deployment\n",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vow1d764ew236iq",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1660501800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Independence Day",
+  "time": 0,
+  "duration": 0,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vow2746x29dtkfb",
+  "type": "LEAVE",
+  "date": {
+    "$date": {
+      "$numberLong": "1667327400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "LOP",
+  "name": "Half day off",
+  "time": 780,
+  "duration": 240,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "Office visit - Elixr Cochin",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vow2lz02yhq27j",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1664821800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Mahanavami",
+  "time": 0,
+  "duration": 0,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vow35tl56p83ed4",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "622319400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Sajeev Kanjikuzhy",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la6a6cg5o3lyos033va",
+  "type": "TEAM OUTING",
+  "date": {
+    "$date": {
+      "$numberLong": "1669660200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Elixr - Team outing - Day 2",
+  "time": 540,
+  "duration": 540,
+  "company": "",
+  "repeat": 0,
+  "description": "Ravis Leela Kovalam\nPaintball\nTugh of war",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la6a6cg5txebvqhtopl",
+  "type": "TEAM OUTING",
+  "date": {
+    "$date": {
+      "$numberLong": "1669746600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Elixr - Team outing - Day 3",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "labzep97c6yes2suzz5",
+  "type": "WEDDING ANNIVERSARY",
+  "date": {
+    "$date": {
+      "$numberLong": "1352485800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Sumesh & Anuja",
+  "time": 930,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "labzg7zlefpys1ihmne",
+  "type": "WEDDING ANNIVERSARY",
+  "date": {
+    "$date": {
+      "$numberLong": "1673980200000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Nithin Mohan",
+  "time": 930,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "laguqn17ppkjbuid3z",
+  "type": "TRAINING SESSION",
+  "date": {
+    "$date": {
+      "$numberLong": "1669919400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Training session on MongoDB",
+  "time": 1140,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Agenda:\t\nMongoDB Architecture\t\t\nDocument model & MongoDB Query API\t\t\nHigh availability and DR\t\t\t\nReplica sets\t\t\t\nMulti-region replication\t\t\nVertical and horizontal scalability\t\t\t\nAuto-scaling\t\t\t\nSharding architecture\nSharding options (hash, range, key-value)\t\t\t\t\t\t\t\nLive resharding\nMongoDB 6.0 Highlights\nAtlas SQL interface\nFlexible sync\nOverview of other announcements",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "laht4v8w56pcywlwoqj",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1667932200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Demo - Bootstrap theme switching - SCSS build and deployment",
+  "time": 930,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "https://mhb.webex.com/join/brian.mckee\nAgenda\n1. Bootstrap theme switching\n2. SCSS build and deployment\n",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lal3fji62kbqpkbrq2c",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1668623400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Daily stand up",
+  "time": 630,
+  "duration": 30,
+  "company": "ATOS",
+  "repeat": 1,
+  "description": "",
+  "repeatDays": [
+    "Monday",
+    "Tuesday",
+    "Thursday",
+    "Friday",
+    "Wednesday"
+  ],
+  "exceptionDates": [
+    "Mon Nov 28 2022",
+    "Tue Nov 29 2022",
+    "Wed Nov 30 2022",
+    "Mon Dec 05 2022",
+    "Mon Dec 19 2022",
+    "Tue Dec 20 2022",
+    "Wed Dec 21 2022",
+    "Thu Dec 22 2022",
+    "Fri Dec 23 2022",
+    "Mon Dec 26 2022",
+    "Tue Dec 27 2022",
+    "Wed Dec 28 2022",
+    "Thu Dec 29 2022",
+    "Fri Dec 30 2022",
+    "Wed Jan 04 2023",
+    "Wed Jan 18 2023",
+    "Fri Jan 06 2023"
+  ],
+  "interviewStatus": 1
+},{
+  "guid": "lav0skhn9ezlecnf9lp",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1669228200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "UI development - Best practices",
+  "time": 990,
+  "duration": 60,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lav2d3wu9iwr95xqkn6",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1668623400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Trinity Stand up",
+  "time": 675,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 1,
+  "description": "",
+  "repeatDays": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ],
+  "exceptionDates": [
+    "Tue Nov 29 2022",
+    "Mon Dec 05 2022",
+    "Tue Dec 06 2022",
+    "Wed Dec 07 2022",
+    "Thu Dec 08 2022",
+    "Thu Dec 29 2022",
+    "Fri Dec 30 2022",
+    "Wed Jan 18 2023"
+  ],
+  "interviewStatus": 1
+},{
+  "guid": "lav0yqyu9znl7q1mxot",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1669228200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Discussion on pipeline failure and storybook run failure",
+  "time": 720,
+  "duration": 60,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "1. delete node_modules\n2. pull latest\n3. npm install\n4. npm run start:storybook\n5. npm start\n6. npm run test",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lavyxofk6r2sb8xwhcr",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1669228200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Trinity - Sprint Review",
+  "time": 1155,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lav32q7fi3jodha109i",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1668623400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Enablers ART 16.2 - PI5 Daily Stand Up",
+  "time": 900,
+  "duration": 30,
+  "company": "ATOS",
+  "repeat": 1,
+  "description": "",
+  "repeatDays": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ],
+  "exceptionDates": [
+    "Mon Nov 28 2022",
+    "Tue Nov 29 2022",
+    "Wed Nov 30 2022",
+    "Mon Dec 19 2022",
+    "Tue Dec 20 2022",
+    "Wed Dec 21 2022",
+    "Thu Dec 22 2022",
+    "Fri Dec 23 2022",
+    "Mon Dec 26 2022",
+    "Tue Dec 27 2022",
+    "Wed Dec 28 2022",
+    "Thu Dec 29 2022",
+    "Fri Dec 30 2022",
+    "Wed Jan 18 2023"
+  ],
+  "interviewStatus": 1
+},{
+  "guid": "lb0y32gfbu7o5hevfaj",
+  "type": "TEAM OUTING",
+  "date": {
+    "$date": {
+      "$numberLong": "1669660200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Elixr - Team outing - Day 2",
+  "time": 1080,
+  "duration": 180,
+  "company": "",
+  "repeat": 0,
+  "description": "DJ & fireworks at beach",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb0yc69gmytv5chxkz8",
+  "type": "EMERGENCY",
+  "date": {
+    "$date": {
+      "$numberLong": "1669314600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Hospital",
+  "time": 570,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "Went Nellikuzhi dental hospital",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb0yui4ba71v8e8tnop",
+  "type": "TRIP",
+  "date": {
+    "$date": {
+      "$numberLong": "1669487400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Sanghumugham beach",
+  "time": 1080,
+  "duration": 180,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb4kxq3ol8nh0gnl5e",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1669746600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Internal demo - SCSS integration",
+  "time": 1020,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "1. Bg color mismatch #EEF5FB - DONE\n2. Menu overflow scroll - DONE\n3. User listing - no result found - DONE\n4. primary button hover color - DONE\n5. Uploaded File - font size - DONE\n6. File font size - DONE\n7. Invalid file format design - DONE\n8. Export list - cursor - DONE\n9. Modal width -- col-6 ? - DONE\n10. Modal width in different break points - DONE\n11. When searching in facilities, search icon should be blue - DONE\n12. Facilities dropdown - select one -> apply -> open dropdown -> apply should not be enabled - DONE\n13. Field - type state, error state - DONE\n14. Onfocus - disable black border - DONE\n15. Cannot remove this facility - popup - DONE\n16. Delete button in add row - DONE\n17. Table th color - detail2 - DONE\n18. User edit success - DONE\n19. App log search style\n20. Settings - col-1 is missing - DONE\n21. Single setting - gap and margin - DONE\n22. settings-sub-menu - list item color - DONE\n23. line-height - DONE\n24. remove input number arrows - DONE",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb4l01xuzffm45r5pqs",
+  "type": "WEDDING ANNIVERSARY",
+  "date": {
+    "$date": {
+      "$numberLong": "880741800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Chithambaran & Sheela",
+  "time": 930,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb6bvpfev2ovcjrptfp",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1671906600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Christmas",
+  "time": 930,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb6bziw2empvunbqbf",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1651343400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "May day",
+  "time": 930,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb6c0f5jnz53wim1jqd",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1660501800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Indepandence day",
+  "time": 930,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbaa7qaibddnwmzujd",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1670437800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PIP - 16 - Day 4 (Optional Day)",
+  "time": 600,
+  "duration": 420,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb7iox38japnu1uqeeh",
+  "type": "EMERGENCY",
+  "date": {
+    "$date": {
+      "$numberLong": "1670005800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Dental college - Nellikuzhy",
+  "time": 570,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb0ycypaxhyzjzqor8i",
+  "type": "EMERGENCY",
+  "date": {
+    "$date": {
+      "$numberLong": "1669314600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Hospital",
+  "time": 720,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "Went Nellikuzhi dental hospital",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb6c1b046a5p6ajpym9",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1664649000000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Gandhi jayanthi",
+  "time": 930,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbaa5t3xnl2ckqcmbiq",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1670178600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PIP - 16 - Day 1",
+  "time": 600,
+  "duration": 420,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb6by678718x42138n7",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1643135400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Republic day",
+  "time": 930,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la0rsv80twmu8tv9idb",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1698085800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Vijayadashami",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb6d949bnemnwitw0v",
+  "type": "LEAVE",
+  "date": {
+    "$date": {
+      "$numberLong": "1672252200000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Annual leave",
+  "time": 930,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbahhkyep087jbdr9xo",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1687458600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Elixr Pulse",
+  "time": 930,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbahfvha2jfjma7q466",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1692037800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Independence day",
+  "time": 930,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb6d9lyhwk0qmc3mcx",
+  "type": "LEAVE",
+  "date": {
+    "$date": {
+      "$numberLong": "1672338600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Annual leave",
+  "time": 930,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovzjpcdjp5wp0a",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1651516200000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Eid Ul Fitr",
+  "time": 0,
+  "duration": 0,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbap0a9uso1f8ivyzvn",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1693247400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Thiruvonam",
+  "time": 930,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vow0vg1fytqx2ti",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1660501800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Independence Day",
+  "time": 0,
+  "duration": 0,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbahdi3o4zh1yghs243",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1682879400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "May day",
+  "time": 930,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la6a6cg5er03mi6ayn",
+  "type": "TEAM OUTING",
+  "date": {
+    "$date": {
+      "$numberLong": "1669573800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Elixr - Team outing - Day 1",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la0rsv7z5stjolx2bpa",
+  "type": "PUBLIC HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1697999400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Mahanavami",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbaue4ocainj232oij",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "670617000000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Midhun Kuruppampady",
+  "time": 930,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbap1j1i0gn1kn7nfrq",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1699813800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Deepavali",
+  "time": 930,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbbsnwm24fo2od8r7sx",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1670265000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Discussion on Security Issues",
+  "time": 1020,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Organizer: Anoop Kumar",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbaa6sij22euxr43jby",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1670265000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PIP - 16 - Day 2",
+  "time": 600,
+  "duration": 420,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbbsp9lbcip37f3z6hu",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1670265000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PIP Day 2 Plan Review",
+  "time": 1080,
+  "duration": 180,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbap0s9iut41mu6zrm",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1697999400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Mahanavami",
+  "time": 930,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbbspvcsv42bbuu7jy",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1670351400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PIP Day 3 Final Plan Review",
+  "time": 1080,
+  "duration": 180,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbahlpu8hfa8ud97jy9",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1680805800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Good Friday",
+  "time": 930,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbbsryujt30oh3zdzcb",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1670437800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PIP 16: Planning Adjustments",
+  "time": 1200,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbbtz4bj12jxrc99vhih",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1335897000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "StepsOnWeb",
+  "time": 660,
+  "duration": 180,
+  "company": "",
+  "repeat": 0,
+  "description": "Email date: Sat Apr 28 2012\nInterview Venue: Steps On Web\nNo. 32/1577 - B1, 1st Floor,\nSprings Cascade Building, Peringot/YMCA Road,\nPalarivattom Bye Pass (Opp. EMC Hospital),\nCochin, Kerala, India - 682 025.\nOff Tel: +484 4066479\nInterview Schedule: 11:00 AM \nDate: 02- May -2012 (Tuesday)",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 2
+},{
+  "guid": "lbbsqhxx3yxph2x69dl",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1670437800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PIP Day 4 Review (Optional)",
+  "time": 1080,
+  "duration": 180,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbaozgtgcnzowufam8n",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1682015400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Ramzan",
+  "time": 930,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbahnmnh5qxf9aqk73h",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1681410600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Vishu/Tamil new year",
+  "time": 930,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbaa73xg51r9ye4kv3i",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1670351400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PIP - 16 - Day 3",
+  "time": 600,
+  "duration": 420,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbc2kn64fzq2j98bmg",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1670265000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Discussion on security issues",
+  "time": 840,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "INSEC-22--#1---Encryption key and salt method viewable\nINSEC-22--#3--Decrypt App logs\nINSEC-22-#4-- Infer any previously signed-in user's pin code",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbahc7w8mqnlpibw9hf",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1674671400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Republic Day",
+  "time": 930,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbdoo4ix8en4dtpwr2n",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1370284200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "SODTECH",
+  "time": 900,
+  "duration": 180,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Email date: Sun Jun 02 2013\nPosition: Sr.Ui/Web designer\nVenue: SOD Technologies, CP Ummer road Kerala, India.\nContact - Mr. Rahul Krishnan 9846287361\nDate: 4th  June 2013 (Tuesday)\nTime: 3.00 PM",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 2
+},{
+  "guid": "lbdovzqool48im4mcmr",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1370370600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Fingent Global Solutions",
+  "time": 900,
+  "duration": 180,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Missing details",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 2
+},{
+  "guid": "lbdtbhdnswsgbn3lxl",
+  "type": "TRAINING SESSION",
+  "date": {
+    "$date": {
+      "$numberLong": "1670351400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Onsite - MongoDB Analytics & Integrations",
+  "time": 1230,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Agenda:\t\nApplication Driven Analytics\nVisualizing MongoDB Data via Charts \nCreate, share, embed visualizations for real time insights\nMongoDB Connector for BI \nQuery MongoDB data with SQL tools i.e. Excel, Power BI, Tableau, etc\nMongoDB Atlas integration with Azure Synapse Analytics \nTwo approaches/options for triggering the pipelines that capture the real-time changes in the MongoDB Atlas operational data store/digital hub and sync the data with Synapse Analytics\nMongoDB University & resources available to you \nOnline courses, learning paths, certification\n",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbap2gedc4jc2paet9u",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1703442600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Christmas",
+  "time": 930,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbbskoawe8vbbk0munt",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1670178600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PIP Day One Review",
+  "time": 1080,
+  "duration": 180,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lblnqjz6n8kexygqmv",
+  "type": "TRIP",
+  "date": {
+    "$date": {
+      "$numberLong": "1670610600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Kallil Temple",
+  "time": 540,
+  "duration": 240,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbap14hxiv3gopaazvr",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1698085800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Vijayadasami",
+  "time": 930,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbf2o460fct0tvkf8zu",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1670437800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Enablers 6.2 - PI5 Midway Checkpoint/Team Meeting",
+  "time": 1080,
+  "duration": 60,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbdrf4wxx7c0sftwl9i",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "660421800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Preetha XDS",
+  "time": 540,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lblns3uhxyy3rpuscwr",
+  "type": "TRAINING SESSION",
+  "date": {
+    "$date": {
+      "$numberLong": "1670610600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "NodeJS and MongoDB",
+  "time": 1140,
+  "duration": 120,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbltwl3arrt995hcwll",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "652818600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Bibin Adimali",
+  "time": 540,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "la6a6cg5mjh087y2p18",
+  "type": "HOUSE WARMING",
+  "date": {
+    "$date": {
+      "$numberLong": "1668191400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Balan uncle",
+  "time": 930,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "House warming - Balan uncle",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbq3l40lqh5s8xiebi",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1671474600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Security Issues: working review - Desktop",
+  "time": 1110,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Agenda\nSecurity Issues: working review - Desktop",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbahglmrzrzdfnhxzce",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1696185000000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Gandhi jayanthi",
+  "time": 930,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbbsv1gmi950j0gklld",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1670265000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PIP-16: 1st Presentations",
+  "time": 1230,
+  "duration": 120,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovxjzaynxbsgvq",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "514751400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Francis FTS",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lblntx6z6xoiaplfh1w",
+  "type": "TRIP",
+  "date": {
+    "$date": {
+      "$numberLong": "1670697000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Bibin's house, Irumbupalam, Adimali",
+  "time": 540,
+  "duration": 660,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovwye4b2x3hsxh",
+  "type": "WEDDING ANNIVERSARY",
+  "date": {
+    "$date": {
+      "$numberLong": "1611426600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Antony FTS",
+  "time": 930,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovxyxol3ssi53",
+  "type": "WEDDING ANNIVERSARY",
+  "date": {
+    "$date": {
+      "$numberLong": "1422037800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Libin FTS & Jeeva",
+  "time": 930,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovxlm3xwg6nns",
+  "type": "WEDDING ANNIVERSARY",
+  "date": {
+    "$date": {
+      "$numberLong": "1612377000000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Teena FTS",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbbtrfxq2bkyakecjwn",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1305657000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Blue Horizon Infotech",
+  "time": 660,
+  "duration": 180,
+  "company": "",
+  "repeat": 0,
+  "description": "Email date: Tue May 17 2011\nLocation Address: Excel Systems, 3rd Floor, Orient Square, Kadavanthra, Cochin - 20\nDate: Wed May 18 2011\nTime: 11 AM",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 2
+},{
+  "guid": "l8d2vovxh95edgp6uaw",
+  "type": "WEDDING ANNIVERSARY",
+  "date": {
+    "$date": {
+      "$numberLong": "1454524200000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Sminju FTS",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbm8uh44wjz6jz69n5",
+  "type": "TRIP",
+  "date": {
+    "$date": {
+      "$numberLong": "1671301800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Kettunira - Prasanth Mavudy",
+  "time": 1020,
+  "duration": 240,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lc2wwrumoe9zrk6csy7",
+  "type": "TRIP",
+  "date": {
+    "$date": {
+      "$numberLong": "1671906600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Bindu chechi house",
+  "time": 1050,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovxuw2z08znmli",
+  "type": "WEDDING ANNIVERSARY",
+  "date": {
+    "$date": {
+      "$numberLong": "1580927400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Kiran FTS",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "l8d2vovxx2ov7r3bvsn",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "739391400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Akhil FTS",
+  "time": 0,
+  "duration": 0,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lc2wvb1chuj365x4gkh",
+  "type": "TRIP",
+  "date": {
+    "$date": {
+      "$numberLong": "1671906600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Eldhose house",
+  "time": 1170,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbaubr3t09j7w7hbp6uj",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1014921000000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "Casual",
+  "name": "Megha Saji",
+  "time": 930,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbm8oty9bhi3c5r08ar",
+  "type": "TRIP",
+  "date": {
+    "$date": {
+      "$numberLong": "1671561000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Kettunira - Jinesh KR",
+  "time": 1080,
+  "duration": 180,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lc5pel3c9u5s8p4m58i",
+  "type": "TRIP",
+  "date": {
+    "$date": {
+      "$numberLong": "1672425000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Palani Temple",
+  "time": 1080,
+  "duration": 1680,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lc7mib86ulsfh3ewnrg",
+  "type": "TRIP",
+  "date": {
+    "$date": {
+      "$numberLong": "1672252200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Avatar - G-cinemas, Kothamangalam",
+  "time": 1230,
+  "duration": 240,
+  "company": "",
+  "repeat": 0,
+  "description": "The show starts at 9.15pm",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lc7mppc84hwy6a3u3x9",
+  "type": "TRIP",
+  "date": {
+    "$date": {
+      "$numberLong": "1673029800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Party - Kunnathan Koyan's son's marriage",
+  "time": 1110,
+  "duration": 90,
+  "company": "",
+  "repeat": 0,
+  "description": "Nearby auditorium at Nellikuzhy panchayath office. Marriage is on Sun Jan 08 2023 at Ernakulam",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lc7mrica23hggzd5l6n",
+  "type": "WEDDING ANNIVERSARY",
+  "date": {
+    "$date": {
+      "$numberLong": "1674671400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "",
+  "name": "Amal Ashok & Shalu",
+  "time": 540,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lc7ms1e87vvd6agl96v",
+  "type": "HOUSE WARMING",
+  "date": {
+    "$date": {
+      "$numberLong": "1673721000000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "",
+  "name": "Amal Ashok",
+  "time": 540,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lca0q6n61pzh8oq5gzs",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "757103400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "",
+  "name": "Renjith PS",
+  "time": 540,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcbjc682sz5r7209cij",
+  "type": "TRIP",
+  "date": {
+    "$date": {
+      "$numberLong": "1672338600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Bhoothathankettu",
+  "time": 960,
+  "duration": 180,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lch6wqo6n3kxhu93fzj",
+  "type": "LEAVE",
+  "date": {
+    "$date": {
+      "$numberLong": "1672597800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Medical",
+  "name": "Body pain",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lch70wjfl572dh4q72g",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1641839400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "",
+  "name": "Adithyanath Ratheesh",
+  "time": 540,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lch755fkefovb9op9q",
+  "type": "TRIP",
+  "date": {
+    "$date": {
+      "$numberLong": "1673116200000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "",
+  "name": "Nithin Mohan - Engagement",
+  "time": 540,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lch7avfpuha0yd6u9i",
+  "type": "TRIP",
+  "date": {
+    "$date": {
+      "$numberLong": "1673029800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Elambra - Sasthampattu",
+  "time": 1200,
+  "duration": 120,
+  "company": "",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lch9omty8q8wfzn4wnq",
+  "type": "WEDDING ANNIVERSARY",
+  "date": {
+    "$date": {
+      "$numberLong": "1673807400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "",
+  "name": "Jaya Chandran's son",
+  "time": 540,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lchns3uck1jk7espbn",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1674671400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "",
+  "name": "Republic Day",
+  "time": 540,
+  "duration": 30,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lchnuu5jhklallft2dc",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1680805800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "",
+  "name": "Good Friday",
+  "time": 540,
+  "duration": 30,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lchnw9h0olwfthjfhk",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1681410600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "",
+  "name": "Vishu/Tamil New Year",
+  "time": 540,
+  "duration": 30,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lchnxqx5j4ijw51kmid",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1682879400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "",
+  "name": "May Day/ Maharashtra Day",
+  "time": 540,
+  "duration": 30,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lchnzqm877wcputwayt",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1692037800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "",
+  "name": "Independence Day",
+  "time": 540,
+  "duration": 30,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcho1qqz1214xtfolj3d",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1696185000000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "",
+  "name": "Mahatma Gandhi Jayanti",
+  "time": 540,
+  "duration": 30,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcho3opiuo7rnejfuzc",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1698085800000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "",
+  "name": "Dussehra/ Vijaya Dashami",
+  "time": 540,
+  "duration": 30,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcho4ahuvud94myw68r",
+  "type": "HOLIDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1703442600000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "",
+  "name": "Christmas",
+  "time": 540,
+  "duration": 30,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcimjjiw223qjoxyjo1",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "379017000000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "",
+  "name": "Ratheesh PN",
+  "time": 540,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcj4wy5kxhowrrdwln",
+  "type": "LEAVE",
+  "date": {
+    "$date": {
+      "$numberLong": "1673980200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Cousin's marriage",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lck48kcxepqcxn5i5ap",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1673375400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Discussion with HR",
+  "time": 840,
+  "duration": 30,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Agenda \nConcerns regarding the new leave policy \n",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lckbamq974u7n0ri60q",
+  "type": "MEETING",
+  "date": {
+    "$date": {
+      "$numberLong": "1672943400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Brown Bag Session",
+  "time": 630,
+  "duration": 30,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcpq7s9n3ayhtjxnl4k",
+  "type": "BIRTHDAY",
+  "date": {
+    "$date": {
+      "$numberLong": "1642703400000"
+    }
+  },
+  "allDay": true,
+  "leaveType": "",
+  "name": "Kiran's daughter",
+  "time": 540,
+  "duration": 30,
+  "company": "",
+  "repeat": 4,
+  "description": "1st birthday event at Kirans house on 21st Jan 2023",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcr5zky4bagm4nucfsj",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1642703400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Qburst",
+  "time": 840,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Kochi\nCTC: 16\nPOC: HR\nDescription: Technical",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcr67oebnhuw30sd7xl",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1642962600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Qburst",
+  "time": 840,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Kochi\nCTC: 16\nPOC: HR\nDescription: Senior management",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 3
+},{
+  "guid": "lcr6bxay4bl1ekqwsnt",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1643567400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Netstratum",
+  "time": 840,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Kochi\nCTC: 16\nPOC: HR\nPOC number: 04842867400, Preethi - 7025081671\nDescription: Technical Assessment - Preethi",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcr6fdx4fwb74blcqg",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1643740200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Netstratum",
+  "time": 840,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Kochi\nCTC: 16\nPOC: HR\nPOC number: 04842867400, Preethi - 7025081671\nDescription: Technical Assessment - Jineed",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcr6hyxajghubavi3i",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1643826600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Netstratum",
+  "time": 840,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Kochi\nCTC: 16\nPOC: HR\nPOC number: 04842867400, Preethi - 7025081671\nDescription: Offer letter issued\nLink: https://drive.google.com/file/d/1mL7jOp82e-niUKESJbOkqgA1oaB94YC4/view",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 2
+},{
+  "guid": "lcr86duwhqkcb9jth0o",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1644258600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Preqin",
+  "time": 840,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: HR - Vartika P\nPOC number: 7247580521\nDescription: Telephonic - Deepti - 6364465925",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcr8851ojeew6t9ob8q",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1644345000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Sumanas",
+  "time": 900,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Madhurai\nCTC: 22\nPOC: HR - Sneha\nPOC number: 9952870443\nDescription: Technical",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcr8chwxjb73vzqq1gl",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1644345000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Naggaro",
+  "time": 960,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: HR - Kanchan Manral\nPOC number: 9958431981\nDescription: Online IQ test - Attended 60/62 questions",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 3
+},{
+  "guid": "lcr90dtaferd6zg7as",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1644431400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Valuelab",
+  "time": 900,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Hyderabad\nCTC: 20\nPOC: HR - Bushra\nPOC number: 8922015726\nDescription: Technical",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcr956m2xjgwstwd39",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1644517800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Elixr",
+  "time": 720,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Trivandrum\nCTC: 20\nPOC: HR - Greeshma\nPOC number: 7022280980\nDescription: Technical",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcr98rl4vj0wdiwsnwg",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1644517800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Cheric Information Network Technologies Pvt Ltd",
+  "time": 900,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 20\nPOC: HR - Narendhar\nPOC number: 8897702781\nDescription: The interviewer was unavailable",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 3
+},{
+  "guid": "lcr9bbob7jw9hfxojg4",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1644604200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Xebia",
+  "time": 600,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: HR - Syed\nPOC number: 9551292015\nDescription: HR round",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcr9d3dim98u9gbpm2m",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1644604200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "HCL",
+  "time": 720,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: HR - Prakash\nDescription: Technical - Satyanarayana Adabala",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcr9exyhjidmpnt5bhb",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1644604200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Infostrech",
+  "time": 1185,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: HR - Akash\nPOC number: 9112266219\nDescription: The interviewer was not available",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 3
+},{
+  "guid": "lcr9h7devloqzbabj3",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1644777000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "VDart",
+  "time": 1140,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: HR - Jenifer\nPOC number: 9629095111\nDescription: Technical",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcr9rflrfaea4vylnde",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1644863400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Apexon",
+  "time": 960,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: HR - Shreya Bhattacharya\nPOC number: 8697035265\nDescription: Technical",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcr9seyzya9q2fhy7wk",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1644863400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Preqin",
+  "time": 1020,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: HR - Vartika P\nPOC number: 7247580521\nDescription: Technical",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 3
+},{
+  "guid": "lcrc0dn9e0qfdql9l4j",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1644949800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Ciklum",
+  "time": 720,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Chennai\nCTC: 22\nPOC: Neela\nPOC number: 9600385757\nDescription: HR round - Completed\nLink: https://meet.google.com/uae-tntg-nug?hs=224\nAttachment: ",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0dnhgwitf9fm20u",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1644949800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Xebia",
+  "time": 960,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Syed\nPOC number: 9551292015\nDescription: Selected\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmU5YzllMGMtNmM3OC00Mjc5LWJjYWMtN2VmMTgxZWIzNWQy%40thread.v2/0?context=%7b%22Tid%22%3a%223d4d17ea-1ae4-4705-947e-51369c5a5f79%22%2c%22Oid%22%3a%226d2e9c54-9866-4f21-9ff7-980811dd7d6f%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0dneoucf4577v5n",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1644949800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Diagnal",
+  "time": 1140,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Trivandrum\nCTC: 22\nPOC: Shipra Singh\nPOC number: 9711126459\nDescription: Online test - Selected",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0dngffc43lp76p",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1644949800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Healthplix",
+  "time": 900,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Saine Ghosal\nPOC number: 8130925870\nDescription: Completed\nLink: https://meet.google.com/zsw-tsza-qbs?hs=224",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0dnjxjzdje7vcq",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1644949800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Betsol",
+  "time": 990,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Puja Gosh\nPOC number: 0\nDescription: Completed - Hithesh\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTNkOTEwMmItMDdmNC00MzJiLWJhZWUtNWU1OGFlMTRhNWY4%40thread.v2/0?context=%7b%22Tid%22%3a%22b0fb22a6-3060-4388-9a97-cdfc342994d8%22%2c%22Oid%22%3a%22fc6f37be-c62e-43f8-ad24-e2b7aad6c498%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0e3tsfo070z9jr",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645036200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Synchronoss Technologies Pvt Ltd",
+  "time": 720,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Meenu Gupta\nPOC number: 9711926951\nDescription: HR - Apoorva\nLink: https://synchronoss.zoom.us/j/98699293152?pwd=SjkyMHdaRmxIQjBndnpSaUN3dGdndz09",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0e3zaah90x2iucq",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645122600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Dexlock",
+  "time": 870,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Pavitraa Rahul\nPOC number: 9962334901\nDescription: Interviewer was not available\nLink: http://meet.google.com/yrt-jujo-scf",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 3
+},{
+  "guid": "lcrc0e427ygegt0alkq",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645122600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Xebia",
+  "time": 660,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Syed\nPOC number: 9551292015\nDescription: Postponed - HR - Cultural round\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTA4MDM0YjgtZDA4Ni00OWQ5LTk5OTEtZjc4NDU3MDU1NDM4%40thread.v2/0?context=%7b%22Tid%22%3a%223d4d17ea-1ae4-4705-947e-51369c5a5f79%22%2c%22Oid%22%3a%226d2e9c54-9866-4f21-9ff7-980811dd7d6f%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0e4ztnwvxdi8v4",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645381800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Synchronoss Technologies Pvt Ltd",
+  "time": 780,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Meenu Gupta\nPOC number: 9711926951\nDescription: HR - Apoorva",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0e59npxlo5fqg3",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645122600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Elixr",
+  "time": 1170,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Trivandrum\nCTC: 20\nPOC: Greeshma\nPOC number: 7022280980\nDescription: Completed\nLink: https://mhb.webex.com/mhb/j.php?MTID=m804ac056b718f8bf6a28c70acacdabac",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0elvwup4hy4rdt9",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645381800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "IBM",
+  "time": 1020,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Cochin\nCTC: 20\nPOC: \nPOC number: 8951223884\nDescription: Nisari Balakrishnan\nLink: https://ibm.webex.com/meet/nisari.balakrishnan",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0em01347u0k1zfrp",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645381800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "VDart",
+  "time": 1080,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Jenifer\nPOC number: 9629095111\nDescription: \nLink: https://vdart.zoom.us/j/5597178375?pwd=SmN0RVlzMERGZDdSMm9ZT3RQYVdHdz09",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0em3jyfyui4j8w",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645381800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Wipro",
+  "time": 840,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Shubhangi\nPOC number: 8080969878\nDescription: \nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjBhNzYzM2UtZWJiYS00Njg4LWFiYWItNzBjOWEwYTE4Y2Zl%40thread.v2/0?context=%7b%22Tid%22%3a%22258ac4e4-146a-411e-9dc8-79a9e12fd6da%22%2c%22Oid%22%3a%2236197fa2-6d2f-480d-8796-2935c7e2f83c%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0em90ybqhgpi5xp",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645381800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Apexon",
+  "time": 960,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Shreya Bhattacharya\nPOC number: 8697035265\nDescription: Sujith Sukumaran Nair\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGM3Y2VhM2UtZTNjYy00YzA3LTk3MTctYjc4YTljNGQ3NTM1%40thread.v2/0?context=%7b%22Tid%22%3a%2230583045-ed00-4d4a-b8dd-699a5195cdcb%22%2c%22Oid%22%3a%221d89d7a3-4f56-40d3-962e-b714dfdee930%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0eme7qmv8huaah",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645468200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Digitas",
+  "time": 900,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: London\nCTC: 20\nPOC: Joshna Patel\nPOC number: 9920122094\nDescription: Ashish\nLink: https://www.google.com/url?q=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_NDFjNjg3ZDctMDllMS00NGRlLTlkN2YtZmE1YWFiNGFlYmU4%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25222d7fd04e-4117-4269-9e3b-681df2c6363e%2522%252c%2522Oid%2522%253a%25223861adfb-d803-43c8-a96f-983f151fae48%2522%257d&sa=D&source=calendar&usd=2&usg=AOvVaw2n7LxbjuNApCe7T2lt78gf",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0eyv96oj1yf1y0n",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645036200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Unknown",
+  "time": 1020,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Khuteja Naaz\nPOC number: 9036444994\nDescription: Not scheduled",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 3
+},{
+  "guid": "lcrc0f1ovvs4nskpbxj",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645468200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "UST",
+  "time": 840,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Cochin\nCTC: 22\nPOC: Nancy\nPOC number: 9952930422\nDescription: Nithal Ajayakumar\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDdkODkwMDUtNjUxNi00NDM0LTgzNmItMzc4ZjAyMjc2OTQx%40thread.v2/0?context=%7b%22Tid%22%3a%22a4431f4b-c207-4733-9530-34c08a9b2b8d%22%2c%22Oid%22%3a%22774ce60d-2f93-415c-a80d-70c1e250d56f%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0f1tm19vln52r",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645468200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Xebia",
+  "time": 600,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Syed\nPOC number: 9551292015\nDescription: \nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjYzODM1MGUtMWE0My00ZTA5LTgwMTEtYWQxM2EwNDYwNjE4%40thread.v2/0?context=%7b%22Tid%22%3a%223d4d17ea-1ae4-4705-947e-51369c5a5f79%22%2c%22Oid%22%3a%226d2e9c54-9866-4f21-9ff7-980811dd7d6f%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0f20m5610pyk88e",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645468200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "VDart",
+  "time": 1080,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Jenifer\nPOC number: 9629095111\nDescription: Taher\nLink: https://vdart.zoom.us/j/6079815631?pwd=a1lGS1Qwa1NHV09DQ0x3bUZvVDhLQT09",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0f24psmqy7mye7",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645468200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Persistent",
+  "time": 660,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Sahaj Jain, Uday - HR, Aditya Shinde\nPOC number: 7849824852\nDescription: Sagar More\nAsked deep javascript features\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzQ5Y2Y5ZWEtY2YxOS00YzkzLWE4ZDQtYTEwM2E1YTlkYTIz%40thread.v2/0?context=%7b%22Tid%22%3a%221f4beacd-b7aa-49b2-aaa1-b8525cb257e0%22%2c%22Oid%22%3a%22a79ee5c5-ecba-4840-8112-b3d0a9fb6418%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0f2d3ldsyp28f7g",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645554600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Diagnal",
+  "time": 720,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Trivandrum\nCTC: 22\nPOC: Shipra Singh\nPOC number: 9711126459\nDescription: Ashwini Nair\n\nconst classroom = {\n    students:[\n        {\n            name:'Jack', \n            age:20, \n            hobbies:['travelling', 'football']\n        }, \n        {\n            name:\"bob\", \n            hobbies:['cricket', 'singing']\n        }\n    ]\n}\nconst { students } = classroom;\nconst [ firstStudent ] = students;\nconst { hobbies } = firstStudent;\nconst [ firstHobby ] = hobbies;\n// const { students: [{hobbies: [hobby]}]} = classroom;\nconsole.log(firstHobby);\nvar i = 0;\nfunction add(a,b){\n    var i = a + b;\n    return i;\n}\nconsole.log(i); // 0\nlet sum = add(1,2);\nconsole.log(i); // 3\nconst checking = [...'silent'].sort().join('') === [...'listen'].sort().join('');\nconsole.log(checking);\nconsole.log([...'silent'].sort().join(''));\nconsole.log([...'listen'].sort().join(''));\nLink: https://meet.google.com/tqx-gjqi-pxk",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0ff2jk5hwqxjb9",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645554600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Valuelab",
+  "time": 960,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Hyderabad\nCTC: 20\nPOC: Bushra\nPOC number: 8922015726\nDescription: Yogesh Gaikwad\n\nLink: https://valuelabs.bluejeans.com/107610821/8586",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0fhlx87e85jvp2",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645641000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Dexlock",
+  "time": 900,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Cochin\nCTC: 22\nPOC: Pavitraa Rahul\nPOC number: 9962334901\nDescription: Vipin George\nUS, Dubai, and Florida\nCochin - Padma jn\nAI, machine learning\nGoing to open offices at Technopark and Cyberpark\nLink: http://meet.google.com/yrt-jujo-scf",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0fhqye3sw0y5ov",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645641000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "IBM",
+  "time": 1200,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Cochin\nCTC: 20\nPOC: Soumya Odeyar\nPOC number: 8951223884\nDescription: Abhishek Preman\nfunction isPermutationOfPalindrome(phrase) {\n    let countOdd = 0;\n    let countMap = new Map();\n    for (var i = 0; i < phrase.length; i++) {\n        let x = 1;\n        if(countMap.has(phrase.charAt(i))) {\n            x = countMap.get(phrase.charAt(i)) + 1;\n        }\n        countMap.set(phrase.charAt(i), x);\n        if(x%2 == 1) {\n            countOdd++;\n        } else {\n            countOdd--;\n        }\n    }\n    return countOdd <= 1;\n}\nconsole.log(isPermutationOfPalindrome(\"lleve\"));\nLink: https://ibm.webex.com/meet/abhishek.preman1",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0fht1zn6xxccdmw",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645554600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Hitachi",
+  "time": 900,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Bharathi\nPOC number: 7075193306\nDescription: Sudhir Kumar\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTI3ZmEzYmUtZjg0MC00OWI0LWJlYmItMjZlZGUxMWE1MWEw%40thread.v2/0?context=%7b%22Tid%22%3a%2218791e17-6159-4f52-a8d4-de814ca8284a%22%2c%22Oid%22%3a%22bd6b4dd9-5019-46ad-8b1c-668f1407faab%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0fhx732kegt26kw",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645641000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Sightspectrum",
+  "time": 600,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: \nCTC: 24\nPOC: Prakash\nPOC number: 8754983330\nDescription: const array = [];\nfor(let i=0; i<20; i++) {\n    if(array.length > 1) {\n        array.push(array[array.length-2]+array[array.length-1]);\n    } else {\n        array.push(i);\n    }\n}\nconsole.log(array);\nLink: https://meet.google.com/qgb-tffk-jnp?hs=224",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0fig6i9ughye4li",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645641000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Reflections Info Systems PVT LTD",
+  "time": 1020,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Trivandrum\nCTC: 22\nPOC: Divya\nPOC number: 9008053623\nDescription: Dinesh Kumar Maurya\ncallback and callback hell\nredux toolkit\nvar x=10 ;   \nfunction cal() {\n    var x=20;\n}\ncal();\nconsole.log(x); // 10\nLink: https://meet.google.com/yyb-gexo-ypr?authuser=0&hs=122",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0fujyznxv7n0oqg",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645641000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Synechron Technologies",
+  "time": 660,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore - UAE\nCTC: 22\nPOC: Nithyaa V\nPOC number: 8793028991\nDescription: Samh Tolba - United Arab Emirates - 971508050775\nRakesh Kumar, Magesh Sukumaran, Elizaveta Finina\nconsole.log(1);\nsetTimeout(() => {\n    console.log(2);\n},0);\nsetTimeout(() => {\n    console.log(3);\n},1);\nconsole.log(4);\nconsole.log(5);\n1\n4\n5\n2 //0\n3 //1\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTMwZjkwN2UtOGUwNS00ZjI4LTk2ZDQtMDNiZjM0ZDM1ZmY4%40thread.v2/0?context=%7b%22Tid%22%3a%22e50ebc84-76f2-4636-b550-c3f7abc924af%22%2c%22Oid%22%3a%22cbf8a3bd-aafd-4db7-9a72-36b3a5e0e399%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0fxck9ajolohyjc",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645641000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Wipro",
+  "time": 1380,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Shubhangi\nPOC number: 8080969878\nDescription: Chandra Maurya\nPriydarshini Joshi\n\nhttps://jsonplaceholder.typicode.com/todos\nEastwest bank\nMultithreading\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWVlZTE3ZTUtNjMzMC00ZTFjLWI2MzktZDMxODY2NzljZjNi%40thread.v2/0?context=%7b%22Tid%22%3a%22f5225bf6-2f9f-49dd-92ff-c2b6533d42ad%22%2c%22Oid%22%3a%22b7a691c1-7cc3-4823-a264-7d0509c98431%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 2
+},{
+  "guid": "lcrc0fxs0fmepx51lkt",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645641000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "UST",
+  "time": 960,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Cochin\nCTC: 22\nPOC: Nancy\nPOC number: 9952930422\nDescription: Thara Pattuamveetil\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjdkOTNlMzgtNWZiZC00OThiLWEwNWYtYzE4MGZiNmI4OGQ1%40thread.v2/0?context=%7b%22Tid%22%3a%22a4431f4b-c207-4733-9530-34c08a9b2b8d%22%2c%22Oid%22%3a%22774ce60d-2f93-415c-a80d-70c1e250d56f%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 2
+},{
+  "guid": "lcrc0fy6jaw3d2p96p",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645727400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "HCL",
+  "time": 600,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 23\nPOC: Prakash\nPOC number: 0\nDescription: Janmejay Shah\nMicro frontend\nconst currency = [{name:'Singapore',value:1.35},{name:'india',value:70}];\nconsole.log(currency.map(item=>{\n    return {...item, value: item.value * 2};\n}));\n/////////////\nlet s = \"Hello\";\nconst output = {};\nfor(let i=0; i<[...s].length; i++) {\n    const key = [...s][i];\n    if(output[key]) {\n        output[key] = output[key] + 1;\n    } else {\n        output[key] = 1;\n    }\n}\nconsole.log(\"output \", output);\n/////////////\nconst useNewHook = () => {\n    const obj = {\n        n1: 'vijeesh',\n        n2: 'someone'\n    };\n    const action = () => {\n        console.log(\"obj \", obj);\n    };\n    return [obj,action];\n}\nconst [v1,s1] = useNewHook();\nconsole.log(\"v,s \", v1,s1);\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTgyNzAyN2ItMjJhZi00NzdiLTgzMDEtNWFmMDQxNDM2N2Qw%40thread.v2/0?context=%7b%22Tid%22%3a%22189de737-c93a-4f5a-8b68-6f4ca9941912%22%2c%22Oid%22%3a%224d04472d-628b-41c7-8ed2-1ab98c96a20c%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 2
+},{
+  "guid": "lcrc0fyaekkys6g3967",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645727400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Persistent Systems",
+  "time": 1020,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Anjali Gandhi\nPOC number: 9501920663\nDescription: Interviewer was not available",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 3
+},{
+  "guid": "lcrc0fyc605tq1g22lm",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645727400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Diagnal",
+  "time": 720,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Trivandrum\nCTC: 22\nPOC: Shipra Singh\nPOC number: 9711126459\nDescription: Jithin Jose\n\nO Auth\nSecurity\nLink: https://meet.google.com/xdm-jupk-pan?hs=224",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0gajr6akwqm405b",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645986600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Kristal",
+  "time": 1065,
+  "duration": 15,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 24\nPOC: Sheetal\nPOC number: 6283043964\nDescription: The interviewer was not available, shobha@kristal.ai\nLink: https://meet.google.com/vog-jkzu-dxg?hs=224",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 3
+},{
+  "guid": "lcrc0ge1p4ze3xmp04i",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645986600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Diagnal",
+  "time": 1080,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Trivandrum\nCTC: 22\nPOC: Shipra Singh\nPOC number: 9711126459\nDescription: Workshop - Not scheduled",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 3
+},{
+  "guid": "lcrc0ge4tlgqqvtcco",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645986600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Dexlock",
+  "time": 950,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Cochin\nCTC: 22\nPOC: Pavitraa Rahul\nPOC number: 9962334901\nDescription: Jibin Ashraf\nHR discussion\nLink: http://meet.google.com/pdh-igkw-pvh",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0ge9h5dgupihh9",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645986600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Wipro",
+  "time": 1005,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Shubhangi\nPOC number: 8080969878\nDescription: Harish - 8660593216\nAsked for Graduation certificate\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTVkNWUyN2ItMTdhMC00YWYwLWE0MDktZTZhOTBhODgzYjNi%40thread.v2/0?context=%7b%22Tid%22%3a%22258ac4e4-146a-411e-9dc8-79a9e12fd6da%22%2c%22Oid%22%3a%2263ee4163-515b-4fb3-92b7-77c57750b5d1%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0geb40rs5rd7iqc",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645986600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Persistent Systems",
+  "time": 900,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Anjali Gandhi\nPOC number: 9501920663\nDescription: \nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWMxOTMzNTEtMDEwZS00ODJkLWE2NzUtNjQ1MTRlOTZiNTU4%40thread.v2/0?context=%7b%22Tid%22%3a%221f4beacd-b7aa-49b2-aaa1-b8525cb257e0%22%2c%22Oid%22%3a%22af06af59-2ecd-4ca4-a8ac-4ebd8985711e%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0geeqcebo97021h",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1646159400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "UST",
+  "time": 750,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Cochin\nCTC: 22\nPOC: Nancy\nPOC number: 9952930422\nDescription: Aadhaar card copy sent",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0gqb9tejk24g32w",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645986600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Xebia",
+  "time": 1140,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 24\nPOC: Syed\nPOC number: 9551292015\nDescription: Offer letter issued\nLink: \nAttachment: https://drive.google.com/file/d/1s9oOv7Abc4iKwtGzuNI9uuC12-lYqPCh/view?usp=sharing",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 2
+},{
+  "guid": "lcrc0gu5t56p34144mh",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1645986600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Apexon",
+  "time": 1020,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Shreya Bhattacharya\nPOC number: 8697035265\nDescription: Documents requested to place the offer letter\nDocuments attached and sent",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0gu6k9h5je89tae",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1646159400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Reflections Info Systems PVT LTD",
+  "time": 990,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Trivandrum\nCTC: 22\nPOC: Divya\nPOC number: 9008053623\nDescription: Lakshmi Raveendran - HR\nLink: https://meet.google.com/fyv-xndk-dzr",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0guq2qzljywrmvj",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1646159400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Elixr",
+  "time": 660,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Trivandrum\nCTC: 21\nPOC: Greeshma\nPOC number: 7022280980\nDescription: Online test\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGZkZGNhZDAtYzE2Zi00NGZlLTk4NDEtNzQ2OWRjMzE2MmY4%40thread.v2/0?context=%7b%22Tid%22%3a%22c2f4c3c5-5c79-47c8-a8e4-704a5d06a036%22%2c%22Oid%22%3a%223ff35f8f-d329-4642-b631-10c92a27a1e1%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0gutr6zuvmpdheo",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1646159400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Infosys",
+  "time": 900,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 24\nPOC: Manjunath Badigar\nPOC number: 7028916744\nDescription: Phone in interview with Manjunath Badigar",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0guwhd9kp90bk9j",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1646159400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Mphasis",
+  "time": 1050,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 24\nPOC: Laxmi\nPOC number: 9029170265\nDescription: Tailor Urvashiben\n\nSort for double digit\nElectrod framework\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjI2ZmRkYmEtMDVhOS00OGEzLTgxOTctZmEyY2RkMTA0M2Zj%40thread.v2/0?context=%7b%22Tid%22%3a%22665b6c62-7310-4d39-9abb-32a0cbc3b90f%22%2c%22Oid%22%3a%220046fc54-ed53-4cb4-9a23-e7bc0c4700fc%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0h6h1wl4ecfb71e",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1646159400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Accolite",
+  "time": 720,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 24\nPOC: Shruti\nPOC number: 6201851482",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0haambgwfp0e8ij",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1646764200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "IBS Software",
+  "time": 900,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Cochin\nCTC: 24\nPOC: Nivitha\nPOC number: 8921644218\nDescription: Vinumon Surendaran\nSASS\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTgwNThmMGQtMmRiZi00ODBlLWI3YTktNWI2MjgxOTY0OWM1%40thread.v2/0?context=%7b%22Tid%22%3a%224fb49922-20aa-49cd-b53a-e7eedbd903b0%22%2c%22Oid%22%3a%22deeb6c7f-07a6-4c1c-bfc5-2d3eb55ae1d1%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0hae6muqvx7lmc",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1646245800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Techmihindra",
+  "time": 690,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 24\nPOC: Neha Ganesan\nPOC number: 0\nDescription: Amith Singh\nUnnecessary question asked\nAdvantage of virtual DOM\n\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTgwODgzNTktMmY2Mi00ZmU3LTkwZTktNGJhMzIxNGZjMmFj%40thread.v2/0?context=%7b%22Tid%22%3a%22edf442f5-b994-4c86-a131-b42b03a16c95%22%2c%22Oid%22%3a%22a6121985-4f31-4a89-aaca-9fb74d637b21%22%7d\nAttachment: \nBULK_ADDED_EVENTS",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0hahpgk1k6kphzf",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1646591400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Reflections Info Systems PVT LTD",
+  "time": 690,
+  "duration": 30,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Trivandrum\nCTC: 22\nPOC: Divya\nPOC number: 9008053623\nDescription: Muhammad Haseel\nLink: https://meet.google.com/gyo-uxdt-ivq?authuser=0&hs=122",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0halqowo7tc3nde",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1646677800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Elixr",
+  "time": 900,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Trivandrum\nCTC: 21\nPOC: Greeshma\nPOC number: 7022280980\nDescription: Offer letter\nLink: \nAttachment: https://drive.google.com/file/d/1lGTJSybMiMp65ilS66j1VHNy3V39PZ5P/view?usp=sharing",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 2
+},{
+  "guid": "lcrc0hanhqy223t5t5j",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1646245800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Elixr",
+  "time": 930,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Trivandrum\nCTC: 20\nPOC: Greeshma\nPOC number: 7022280980\nDescription: Binu Bhasuran – CEO – Elixr\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTliYjk2YmMtZjY3Ni00YzBjLWI2Y2QtYzkzMTAyNTQ5MWRh%40thread.v2/0?context=%7b%22Tid%22%3a%22c2f4c3c5-5c79-47c8-a8e4-704a5d06a036%22%2c%22Oid%22%3a%223ff35f8f-d329-4642-b631-10c92a27a1e1%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0hm9qi96ymi1sbm",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1646937000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Diagnal",
+  "time": 945,
+  "duration": 45,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Trivandrum\nCTC: 22\nPOC: Shipra Singh\nPOC number: 9711126459\nDescription: CEO round - Mr. Reuben Verghese\nLink: https://meet.google.com/pgs-gbdj-tyn?hs=224",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0hqfuzgibk15hh",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1647801000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Atos",
+  "time": 1020,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: UK\nCTC: 12\nPOC: Akriti Gupta\nPOC number: 8630542942\nDescription: \nLink: \nAttachment: https://drive.google.com/file/d/1hjpiasTclBNV3e1klJ1ek9RX2OmaDsdv/view?usp=sharing",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 2
+},{
+  "guid": "lcrc0hqh7e5x4jq2xhw",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1646764200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Persistent Systems",
+  "time": 1020,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 22\nPOC: Anjali Gandhi\nPOC number: 9501920663\nDescription: Pavitra V\n        \nconst input = [0,1,0,3,12];\n\nconst b = [];\ninput.forEach(item=> {\n        return item === 0 ? b.push(item) : b.splice(b.indexOf(0),0,item);\n});\n\nconsole.log(b);\n\n// Output: [1,3,12,0,0]\n\nconst a = input.sort((a,b) => b-a);\nconsole.log(a);\n    \nlet employees = [\n    {\n        \"role\": \"senior\",\n        \"name\": \"first\",\n        \"status\": true\n    },{\n        \"role\": \"lead\",\n        \"name\": \"second\",\n        \"status\": false\n    },{\n        \"role\": \"lead\",\n        \"name\": \"third\",\n        \"status\": false\n    },{\n        \"role\": \"junior\",\n        \"name\": \"fourth\",\n        \"status\": true\n    },{\n        \"role\": \"senior\",\n        \"name\": \"none\",\n        \"status\": true\n    }\n]\n    \nimport React from \"react\";\n    \nconst Comp = ({employees}) => {\n    return <div>\n        {employees.map((item, index) => {\n                const {role, name, status} = item;\n            return <div key={index} className={`${status?'has-status':''}`}>\n                <div>{name}</div>\n                <div>{role}</div>\n            </div>\n    })}\n    </div>\n}\n    \nexport default Comp;\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGRjZGI0MzgtZmE4NS00ZGUwLTg5ZmUtOWMwYzkzMzU4YmJj%40thread.v2/0?context=%7b%22Tid%22%3a%221f4beacd-b7aa-49b2-aaa1-b8525cb257e0%22%2c%22Oid%22%3a%22af06af59-2ecd-4ca4-a8ac-4ebd8985711e%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0hqzg8v0moly2w",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1646937000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Atos",
+  "time": 1020,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: UK\nCTC: 5\nPOC: Akriti Gupta\nPOC number: 8630542942\nDescription: Neha\nvinayaka\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzhlYTEzN2MtYjYwYi00ZmRiLTlkNmUtNWExMWUyY2YzMGZi%40thread.v2/0?context=%7b%22Tid%22%3a%2233440fc6-b7c7-412c-bb73-0e70b0198d5a%22%2c%22Oid%22%3a%22c61d84a9-5677-42d3-aff5-e5e2418b9d0b%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrc0hr27u3v1vqsuig",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1646677800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Sightspectrum",
+  "time": 720,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: Bangalore\nCTC: 24\nPOC: Prakash\nPOC number: 8754983330\nDescription: Not scheduled",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 3
+},{
+  "guid": "lcrc0hr4pceeo2rrhrd",
+  "type": "INTERVIEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1647282600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Atos",
+  "time": 960,
+  "duration": 60,
+  "company": "",
+  "repeat": 0,
+  "description": "Job type: WFH\nLocation: UK\nCTC: 5\nPOC: Akriti Gupta\nPOC number: 8630542942\nDescription: Ashita Singh, Chintan Bhadra\nLink: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjdjMTlmNDQtNmJiMy00M2QyLWJkNjAtOGNlNDJlNzYyMjRm%40thread.v2/0?context=%7b%22Tid%22%3a%2233440fc6-b7c7-412c-bb73-0e70b0198d5a%22%2c%22Oid%22%3a%22c61d84a9-5677-42d3-aff5-e5e2418b9d0b%22%7d",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+}]
