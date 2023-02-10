@@ -2,7 +2,7 @@
   "name": "server.memo.vijee.in",
   "version": "1.0.0",
   "description": "",
-  "main": "config.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "build": "node app.js",
