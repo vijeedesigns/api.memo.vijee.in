@@ -21,6 +21,7 @@ server.get('/', (req, res) => {
     res.send(`<div>
         <div>Hello!</div>
         <div>Welcome to memo.vijee.in API.</div>
+        <div>V1.0.0</div>
     </div>`);
 })
 
