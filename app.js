@@ -10,7 +10,7 @@ const server = express();
 dotenv.config();
 
 server.use(cors({
-    origin: 'http://ec2-18-218-237-162.us-east-2.compute.amazonaws.com'
+    origin: 'https://www.memo.vijeesh.in'
 }));
 server.use(bodyParser.json());
 server.use(fileupload({
