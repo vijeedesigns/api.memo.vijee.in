@@ -9,7 +9,9 @@ const server = express();
 // Set up Global configuration access
 dotenv.config();
 
-server.use(cors());
+server.use(cors({
+    origin: 'http://ec2-18-218-237-162.us-east-2.compute.amazonaws.com'
+}));
 server.use(bodyParser.json());
 server.use(fileupload({
     limits: { fileSize: 50 * 1024 * 1024 },
