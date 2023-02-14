@@ -10,7 +10,7 @@ const server = express();
 dotenv.config();
 
 server.use(cors({
-    origin: 'https://www.memo.vijeesh.in'
+    origin: '*'
 }));
 server.use(bodyParser.json());
 server.use(fileupload({
@@ -21,7 +21,7 @@ server.get('/', (req, res) => {
     res.send(`<div>
         <div>Hello!</div>
         <div>Welcome to memo.vijee.in API.</div>
-        <div>V1.0.0</div>
+        <div>V1.0.1</div>
     </div>`);
 })
 
