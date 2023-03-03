@@ -75,4 +75,15 @@
     }
   },
   "isPaid": true
+},{
+  "guid": "dy65u3mgxlcke39kn5",
+  "to": "Renjith PS",
+  "amount": 6000,
+  "reason": "Debt",
+  "date": {
+    "$date": {
+      "$numberLong": "1677684000000"
+    }
+  },
+  "isPaid": true
 }]
