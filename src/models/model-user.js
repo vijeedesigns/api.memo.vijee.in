@@ -10,7 +10,9 @@ const UserModel = new Schema({
     name: { type: String, required: true },
     username: { type: String, required: true },
     password: { type: String, required: true },
-    status: { type: Number, required: true }
+    status: { type: Number, required: true },
+    resetId: { type: String, required: false },
+    resetValidTo: { type: Date, required: false }
 });
 
 UserModel.methods.comparePassword = (value, nonce, user) => {

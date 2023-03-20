@@ -87,7 +87,7 @@ RouteAuth.post('/verify', (req, res) => {
 });
 
 // verify token route
-RouteAuth.post('/verify-token', (req, res) => {
+RouteAuth.get('/verify-token', (req, res) => {
     if(validateToken(req)) {
         response200(res, `User verified`);
     } else {
@@ -95,4 +95,4 @@ RouteAuth.post('/verify-token', (req, res) => {
     }
 });
 
-module.exports = RouteAuth
+module.exports = { RouteAuth, decipher };

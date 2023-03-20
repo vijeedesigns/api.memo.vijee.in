@@ -16,41 +16,6 @@ const REPEAT = {
     ANNUALLY: 4
 }
 
-const mockEvents = require('../../data/memo-events.json');
-const mockTasks = require('../../data/memo-tasks.json');
-
-RouteEvents.post('/bulk-upload', (req, res) => {
-    const collections = db.collections;
-    collections['memo-events'].deleteMany();
-    collections['memo-tasks'].deleteMany();
-
-    const renderObject = i => {
-        return {
-            guid: i?.guid, 
-            type: i?.type, 
-            date: new Date(Number(i?.date?.$date?.$numberLong)) || new Date(),
-            allDay: i?.allDay || false, 
-            leaveType: i?.leaveType || 'Casual', 
-            name: i?.name || '', 
-            time: i?.time || 0, 
-            duration: i?.duration || 0, 
-            company: i?.company || '', 
-            repeat: i?.repeat || 0, 
-            description: i?.description || '', 
-            repeatDays: i?.repeatDays || ["Monday"], 
-            exceptionDates: i?.exceptionDates || [], 
-            interviewStatus: i?.interviewStatus || 1
-        }
-    };
-
-    mockEvents.forEach(i => {
-        EventModel.create(renderObject(i));
-    });    
-    mockTasks.forEach(i => {
-        TaskModel.create(renderObject(i));
-    });
-});
-
 // list events route
 RouteEvents.post('/', (req, res) => {
     validateTokenThen(req, res, () => {

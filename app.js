@@ -1,5 +1,4 @@
 const express = require('express');
-const fileupload = require("express-fileupload");
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const dotenv = require('dotenv');
@@ -13,9 +12,6 @@ server.use(cors({
     origin: '*'
 }));
 server.use(bodyParser.json());
-server.use(fileupload({
-    limits: { fileSize: 50 * 1024 * 1024 },
-}));
 
 server.get('/', (req, res) => {
     res.send(`<div>
@@ -25,7 +21,7 @@ server.get('/', (req, res) => {
     </div>`);
 })
 
-const RouteAuth = require('./src/routes/route-auth');
+const { RouteAuth } = require('./src/routes/route-auth');
 server.use('/auth', RouteAuth);
 
 const RouteUsers = require('./src/routes/route-users');
@@ -50,7 +46,7 @@ const RouteCompanies = require('./src/routes/route-companies');
 server.use('/companies', RouteCompanies);
 
 const RouteLocker = require('./src/routes/route-locker');
-server.use('/locker', RouteLocker);
+server.use('/notes', RouteLocker);
 
 const RouteUploads = require('./src/routes/route-uploads');
 server.use('/uploads', RouteUploads);

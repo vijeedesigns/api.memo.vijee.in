@@ -1,52 +1,41 @@
 require('../config');
 const express = require('express');
 const RouteLocker = express.Router();
-const { response200 } = require('../helpers/responses');
+const NoteModel = require('../models/model-note');
+const { generateGuid } = require('../utils');
+const { response200, response401 } = require('../helpers/responses');
+const { validateTokenThen } = require('../helpers/jwt');
 
 // list locker route
 RouteLocker.get('/', (req, res) => {
-    response200(res, 'Locker list', { data: [
-        {
-            "guid": "ghd5764sdsd97",
-            "username": "vijeedesigns@gmail.com",
-            "password": "Help4work1",
-            "url": "https://icomoon.io/app/#/select",
-            "title": "Icomoon"
-        },
-        {
-            "guid": "ghdhgfg5764sdsd97",
-            "username": null,
-            "password": null,
-            "url": "https://react-iconly.jrgarciadev.com",
-            "title": "React Iconly"
-        },
-        {
-            "guid": "ghdhgf764sdsd97",
-            "username": null,
-            "password": null,
-            "url": "https://qastcorpdevwebeastus2.z20.web.core.windows.net/docs/banyan-web-style-guide/index.html",
-            "title": "Banyan UI documentation"    
-        },
-        {
-            "guid": "ghd5764sdsd97dd",
-            "username": "vijeedesigns@gmail.com",
-            "password": "@weather123",
-            "url": "https://www.weatherapi.com/",
-            "title": "Weather API"
-        },
-        {
-            "guid": "ghd5764sdsd97dfdfsd",
-            "title": "HDFC RD",
-            "note": "Deposit Amount( In Rs.): 5000.00\nInstallment Amount( In Rs.): 5000.00\nDeposit Start Date: 27 Feb 2021\nPeriod of Deposit(in Months): 24 Month(s)\nRate of Interest(%p.a.): 4.90\nDeposit Maturity Date: 27 Feb 2023\nMaturity + Amount (in Rs.): 126318.00"
-        },
-        {
-            "guid": "gh764sdsd97dfdfsd",
-            "title": "Xiaomi MI",
-            "username": "vijeedesigns@gmail.com",
-            "password": "123@asdfgh1",
-            "note": "Account ID: 1640654242\nMobile number: 9747953832\nSecond space: 4268258"
-        }
-    ] });
+    validateTokenThen(req, res, () => {
+        NoteModel.find({}, (err, data) => {
+            if(err) console.log(err);
+            response200(res, data?.length ? 'Note list' : 'No notes', { data });
+        });
+    });
+});
+
+RouteLocker.post('/', (req, res) => {
+    validateTokenThen(req, res, () => {
+        const { guid=null, title, content } = req.body;
+        NoteModel.find({ guid }, (err, data) => {
+            if(data?.length) {
+                NoteModel.updateOne({ guid }, { $set: { title, content } }, (err, docs) => {
+                    if (err){
+                        response401(res, err);
+                    }
+                    else {
+                        response200(res, `Note updated`, { data: { guid, title, content } });
+                    }
+                });
+            } else {
+                NoteModel.create({ guid: generateGuid(), title, content }, (e, d) => {
+                    response200(res, `Note added`, { data: d });
+                });
+            }
+        });
+    });
 });
 
 module.exports = RouteLocker

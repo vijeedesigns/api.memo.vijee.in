@@ -1,24 +1,26 @@
 require('../config');
 const express = require('express');
-const fs = require('fs');
 const RoutePayslips = express.Router();
 const { response200, response403 } = require('../helpers/responses');
 const { validateTokenThen } = require('../helpers/jwt');
-const { generateGuid } = require('../utils');
-const { payslipsPath } = require('../constants');
+
+const { s3, bucket } = require('../helpers/aws-s3');
 
 RoutePayslips.get('/', (req, res) => {
-    validateTokenThen(req, res, () => {
-        const files = fs.readdirSync(payslipsPath);
-        if(files?.length) {
-            const newFiles = files?.map(file => {
-                return {
-                    guid: generateGuid(),
-                    file
-                }
-            });
-            response200(res, 'File list', { result: newFiles.sort().reverse() });
-        } else {            
+    validateTokenThen(req, res, async () => {
+        try {
+            const response = await s3.listObjectsV2({
+                Bucket: bucket,
+                Prefix: 'payslips'
+            }).promise();
+
+            const result = response?.Contents
+            .filter(item => item?.Key.split('/')[1] && item?.Key.split('/')[1]!=='')
+            .map(item => ({guid: item?.ETag.replace(/"/g, ''), key: `${process.env.S3_BUCKET}/${item?.Key}`, lastModified: item?.LastModified, size: item?.Size}))
+            .sort((a,b)=>b.key-a.key).reverse();
+
+            response200(res, 'File list', { result });
+        } catch (err) {
             response403(res, 'No files');
         }
     });
