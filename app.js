@@ -63,8 +63,8 @@ server.use("/dues", RouteDues);
 // const { RouteImage } = require("./src/routes/route-image");
 // server.use("/image", RouteImage);
 
-// const RouteCompanies = require("./src/routes/route-companies");
-// server.use("/companies", RouteCompanies);
+const RouteCompanies = require("./src/routes/route-companies");
+server.use("/companies", RouteCompanies);
 
 const RouteLocker = require("./src/routes/route-locker");
 server.use("/notes", RouteLocker);
@@ -72,8 +72,8 @@ server.use("/notes", RouteLocker);
 // const RouteUploads = require("./src/routes/route-uploads");
 // server.use("/uploads", RouteUploads);
 
-// const RoutePayslips = require("./src/routes/route-payslips");
-// server.use("/payslips", RoutePayslips);
+const RoutePayslips = require("./src/routes/route-payslips");
+server.use("/payslips", RoutePayslips);
 
 // const RouteAncestry = require("./src/routes/route-ancestry");
 // server.use("/ancestry", RouteAncestry);
