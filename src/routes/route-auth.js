@@ -45,8 +45,8 @@ RouteAuth.get("/get-nonce", (req, res) => {
     });
     const cipherUpdate = cipher.update(plainText, "utf8", "hex");
     const nonce = cipherUpdate + cipher.final("hex");
-    response200(res, `Nonce`, { nonce });
-    // const tag = cipher.getAuthTag().toString("hex");
+    const tag = cipher.getAuthTag().toString("hex");
+    response200(res, `Nonce`, { nonce, tag });
     // response200(res, `Nonce`, { nonce, tag });
 });
 
