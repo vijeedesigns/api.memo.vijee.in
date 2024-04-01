@@ -1,0 +1,112 @@
+[
+    {
+        "guid": "lcllha4tq9qaioo0h",
+        "name": "Orchid Enterprises",
+        "from": "Mon Mar 01 2010",
+        "to": "Sat Aug 27 2010",
+        "type": "FULL TIME",
+        "role": "Graphic Designer",
+        "tag": "ORCHID",
+        "color": "#BB4491"
+    },
+    {
+        "guid": "lbbt71x8vew3hyutps9",
+        "name": "Castle Solutions",
+        "from": "Wed Sep 01 2010",
+        "to": "Tue May 17 2011",
+        "type": "FULL TIME",
+        "role": "Web Designer",
+        "tag": "CASTLE",
+        "color": "#EC791F"
+    },
+    {
+        "guid": "lbbt71x86y9d8xriha9",
+        "name": "Blue Horizon Infotech",
+        "from": "Mon May 23 2011",
+        "to": "Wed May 30 2012",
+        "type": "FULL TIME",
+        "role": "Web Designer",
+        "tag": "BHI",
+        "color": "#38527C"
+    },
+    {
+        "guid": "lbbt71x8vr4axxmt42b",
+        "name": "Steps On Web",
+        "from": "Mon Jun 04 2012",
+        "to": "Mon Jul 08 2013",
+        "type": "FULL TIME",
+        "role": "Sr Web Designer",
+        "tag": "SOW",
+        "color": "#E01C30"
+    },
+    {
+        "guid": "lbbt71x8d7mbc5cgc37",
+        "name": "Fingent Global Solutions",
+        "from": "Thu Jul 11 2013",
+        "to": "Fri Sep 04 2020",
+        "type": "FULL TIME",
+        "role": "UI Designer, TL UI, Frontend Developer, TL Frontend",
+        "tag": "FINGENT",
+        "color": "#DF2228"
+    },
+    {
+        "guid": "lbbt71x81q09z4sfmzr",
+        "name": "BEO",
+        "from": "Mon Sep 07 2020",
+        "to": "Tue Dec 22 2020",
+        "type": "FULL TIME",
+        "role": "Technical Lead - Frontend",
+        "tag": "BEO",
+        "color": "#464646"
+    },
+    {
+        "guid": "lbbt71x8uolvjnbe8l",
+        "name": "Aspire Systems (RapidValue)",
+        "from": "Mon Dec 28 2020",
+        "to": "Tue Mar 29 2022",
+        "type": "FULL TIME",
+        "role": "Frontend Developer",
+        "tag": "ASPIRE",
+        "color": "#8b48AE"
+    },
+    {
+        "guid": "lbbt71x8czvx14hgyb",
+        "name": "Atos India Private Limited (Altezzasys)",
+        "from": "Tue Mar 22 2022",
+        "to": null,
+        "type": "FREELANCE",
+        "role": "Frontend Developer",
+        "tag": "ATOS",
+        "color": "#02639F"
+    },
+    {
+        "guid": "lbbt71x83y4a25fkeke",
+        "name": "Elixr Labs Technologies Pvt Ltd",
+        "from": "Mon Apr 04 2022",
+        "to": null,
+        "type": "FULL TIME",
+        "role": "ReactJS Architect",
+        "tag": "ELIXR",
+        "color": "#E4865A"
+    },
+    {
+        "guid": "lcloipjwyqcj33b1u9",
+        "name": "Java R&D Pvt. Ltd.",
+        "from": "Tue Nov 30 2021",
+        "to": "Tue Feb 15 2022",
+        "type": "PART TIME",
+        "role": "Training, Coding & Development Support",
+        "tag": "JAVARND",
+        "color": "#69AFE0"
+    },
+    {
+        "guid": "lcloks2199pfrij61c7",
+        "name": "Altimetric",
+        "from": "Sat Oct 23 2021",
+        "to": "Thu Feb 17 2022",
+        "type": "PART TIME",
+        "role": "ReactJS Interviewer",
+        "tag": "ALTIMETRIC",
+        "color": "#d24e16"
+    }
+]

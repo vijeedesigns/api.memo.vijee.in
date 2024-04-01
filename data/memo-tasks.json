@@ -1,0 +1,1723 @@
+[{
+  "guid": "la0rsv7wt5gdnw85cmi",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1667500200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Discussion on Bootstrap theming",
+  "time": 990,
+  "duration": 30,
+  "company": "Elixr",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lagajsxowzlstmko057",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668364200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "HHUS-26986",
+  "time": 540,
+  "duration": 240,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "HHUS-26986\nDesktop- Re-Adding Participants to the Group chat is disabled for the left participants",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lagarbl2g9c4wwgrhev",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668364200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PN-107353",
+  "time": 540,
+  "duration": 240,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "PN-107353\nJEST optimization R&D",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lagqermqur3qic6d13",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668364200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "HHUS-27064",
+  "time": 840,
+  "duration": 240,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "HHUS-27064\nDesktop -Broadcast fails to receive , when dynamic role is added to a role group",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lahrvddnsi5subwcl9s",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668450600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "HHUS-27064",
+  "time": 540,
+  "duration": 240,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "HHUS-27064\nDesktop -Broadcast fails to receive , when dynamic role is added to a role group",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lai16pp7s2p2b1dit7",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668537000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "HHUS-27064",
+  "time": 540,
+  "duration": 240,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "HHUS-27064\nDesktop -Broadcast fails to receive , when dynamic role is added to a role group",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lai14asrox090m9ritk",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668623400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Neetha Loka (React Architect)",
+  "time": 840,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Interview Invitation_Elixr - Neetha Loka (React Architect)",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lai13bdarikp52k41vr",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668709800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Sowmya Chelimilla (React Architect)",
+  "time": 840,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Interview Invitation_Elixr - Sowmya Chelimilla (React Architect)",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lai16accsht9v4lxu8q",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668450600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PN-107353",
+  "time": 540,
+  "duration": 240,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "PN-107353\nJEST optimization R&D",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lahydivmdqdbdarfks9",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668450600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Murali Kumar Adabala (React Architect)",
+  "time": 840,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Interview Invitation_Elixr - Murali Kumar Adabala (React Architect)\n\nusecallback\nhooks - usestate, useeffect, usereducer\nclass components\nrouting - link, navlink\npresentational components - just like pure components\nlazy loading - lazy components, Suspense\ninitil loading - cetach component from\nseo\ni18n - en.json, jp.json\noffline support - pwa\njwt\nredux - slice",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "laktutucqp1qnl68fga",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668623400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PN-104381",
+  "time": 720,
+  "duration": 60,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "Employer landing page - Naming of placeholder in Account activity is different from figma and jira",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "laktvwl3e2ktzc8d8c6",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668623400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "HHUS-27064",
+  "time": 540,
+  "duration": 120,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "HHUS-27064\nDesktop -Broadcast fails to receive , when dynamic role is added to a role group",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "laktxjvpq1mwavr17n",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668623400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-12462",
+  "time": 660,
+  "duration": 120,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "SASS integration - Users Page",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lama0m97vkfj7rkbvz",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668709800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Sahaya Digo (React Architect)",
+  "time": 930,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Interview Invitation_Elixr - Sahaya Digo (React Architect)\n\nSahaya Digo John is not up to the standard. I won't prefer him for the next rounds.",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "laqu3jqxxoxbcugwuxc",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668537000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "HHUS-27064",
+  "time": 840,
+  "duration": 240,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "HHUS-27064\nDesktop -Broadcast fails to receive , when dynamic role is added to a role group",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "laqty0hs98hrbag8lz",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1669055400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PN-104298",
+  "time": 840,
+  "duration": 240,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "PN-104298 - Dashboard Search Design",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "laqtyqjw6rvwgwo0dxq",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668364200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "HHUS-26986",
+  "time": 840,
+  "duration": 240,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "HHUS-26986\nDesktop- Re-Adding Participants to the Group chat is disabled for the left participants",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "laqu49u4kc4t7vx4ebh",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668623400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PN-104381",
+  "time": 840,
+  "duration": 240,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "Employer landing page - Naming of placeholder in Account activity is different from figma and jira",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "laqtzvscw09ord6yoxl",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668450600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "HHUS-27064",
+  "time": 900,
+  "duration": 180,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "HHUS-27064\nDesktop -Broadcast fails to receive , when dynamic role is added to a role group",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "laqq8tsff0shup7v2s",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668969000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-12462",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "SASS integration - Users Page",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "laqbktskxedssc0d26o",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668709800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-12462",
+  "time": 540,
+  "duration": 240,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "SASS integration - Users Page",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "laqu4wm0b1l05wvbjtf",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668709800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-12462",
+  "time": 840,
+  "duration": 240,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "SASS integration - Users Page",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "laqbpw6lkayzoxshj1l",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668709800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Employer dashboard API changes",
+  "time": 720,
+  "duration": 60,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "All APIs are marked as mocked: false for employer dashboard",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "larqogfevwt8pdi02n7",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1669055400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PN-112267",
+  "time": 540,
+  "duration": 240,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "PN-112267 - Employer Contributions - real API implementation",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "larz4l6uo4qb4ivjtl9",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1669055400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-12462",
+  "time": 540,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "SASS integration - Users Page",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "larz86tz2stny2gmyu3",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1669055400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-12708",
+  "time": 840,
+  "duration": 240,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "BNYN-12708 - Integrate SASS for App Log Screen",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lav0ux3a90d6gbqz5c",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1669228200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-12791",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "BNYN-12791 - SASS Integration- Create Single User Page",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb5wo86bzcjd5b1bxg7",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1669746600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-12791",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "BNYN-12791 - SASS Integration- Create Single User Page",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbc2odxs4jd4sqc7mdw",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1670265000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PN-117279",
+  "time": 690,
+  "duration": 120,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "Employer landing page - The alignment of the payment history page is not as per Figma",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lav0uh99j0ve9tbr4ji",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1669141800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-12791",
+  "time": 840,
+  "duration": 240,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "BNYN-12791 - SASS Integration- Create Single User Page",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lat5fvoudl6569jaizt",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1669141800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "CSS Modules Integration",
+  "time": 540,
+  "duration": 240,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "Employer dashboard page",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "laqu0h0649yxvnke1n",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1668450600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PN-107353",
+  "time": 840,
+  "duration": 240,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "PN-107353\nJEST optimization R&D",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lat3z5lf7m7nmxb5mwt",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1669141800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-12708",
+  "time": 540,
+  "duration": 240,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "BNYN-12708 - Integrate SASS for App Log Screen\n\nIntegrating theme toggle feature into settings page.",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "larz5l15qtwq50v352",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1669055400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-12235",
+  "time": 600,
+  "duration": 180,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "BNYN-12235 - Admin UI :At Initial login there is a change in position of Icons for a while (Like a clash)",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb5wr239x6nn7owc6d",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1669833000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Checking all APIs",
+  "time": 1020,
+  "duration": 60,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb0xww8pim1hu5lvvyb",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1669573800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-12791",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "BNYN-12791 - SASS Integration- Create Single User Page",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb5wp9vhni5qs1mfzx",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1669919400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-12791",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "BNYN-12791 - SASS Integration- Create Single User Page",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lavz0beh5kjh37wquq4",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1669314600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-12791",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "BNYN-12791 - SASS Integration- Create Single User Page",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb6817u1vl5u72bd9ak",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1669919400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Employer dashboard",
+  "time": 720,
+  "duration": 180,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "View activity list link checking\nQuick link checking",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb5woz5eqb13nai48qe",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1669833000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-12791",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "BNYN-12791 - SASS Integration- Create Single User Page",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lblnum07h8dpsggcsnp",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1670869800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "SCSS integration",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "SASS Integration- Working on review comments",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbkepvcpo5x8fjphd4h",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1670783400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "SCSS integration",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "SASS Integration- Working on review comments",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lblt2i33kdiyi79bi0l",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1670956200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Interview - Ravi Chaurasia (React Architect)",
+  "time": 840,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Candidate name: Ravi Chaurasia (React Architect)\n\nStatus: Rejected\n\nReason: Not having enough technical knowledge.\n\nTotal exp: 15 years\nReact: 5 years\nTechnologies: node, mongodb, html, css, responsive, es6\nProject: Continental\n\nQuestions: \nconst a = [9,5,1,3,4,6,2,8,3,2,3,6,5];\n1. Sort descending order\nAns. a.sort((a,b) => {\n    if(a>b) {\n        return a\n    }\n    if(a<b){\n        return b\n    }\n});\n\n2. Destructuring\nconst firstValue = a[0];\nconst secondValue = a[1];\n\n3. Table in HTML\n&lt;table&gt;\n    &lt;tr&gt;\n        &lt;td&gt;R1-C1&lt;/td&gt;\n        &lt;td&gt;R1-C2&lt;/td&gt;\n    &lt;/tr&gt;\n    &lt;tr&gt;\n        &lt;td&gt;R2-C1&lt;/td&gt;\n        &lt;td&gt;R2-C2&lt;/td&gt;\n    &lt;/tr&gt;\n&lt;/table&gt;",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbokb4pkcyfeq0ritom",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1670956200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "SCSS integration",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "SASS Integration- Working on review comments",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lboon2ug2pmxen9toro",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1671042600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "API integration - Employer dashboard and contribution history",
+  "time": 540,
+  "duration": 540,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "Sort dropdown",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbooxnpaxx3jijdh5tn",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1671042600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "banyan-web-style-guide",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "https://qastcorpdevwebeastus2.z20.web.core.windows.net/docs/banyan-web-style-guide/index.html",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lboxaw9sjti2ueo13y",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1671042600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Interview - Prasuna Pamujula (React Architect)",
+  "time": 900,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Candidate name: Prasuna Pamujula (React Architect)\nStatus: Rejected\n\nReason: Not having enough practical knowledge in ReactJS and JS\n\nTotal exp: 11.5 years\nFrontend: 6.6 years\nCompany: Capgemini\nReactJS: 4 years\n\n1. useState\nconst [name, setName] = useState(' ');\n2. useEffect\nuseEffect(() => {}, []);\nuseEffect(() => {}, [a, b]);\nuseEffect(() => { return () => { }}, []);\n\n3. ES6\nclasses, modules, import, arrow function, spread operator, destructuring, generator function\n\nDestructuring\nconst obj = {a:1, b:2, c:3}\nconst [a,b, ...rest] = obj;\n\nGenerator function\nfunction* test(cnt) { yield cnt; yield cnt ++ }\nconst testfunc = test(1);\ntestfunc.next().value;\n\nSorting\nconst a = [9,5,1,3,4,6,2,8,3,2,3,6,5];\na.reduce(function(val1, val2) { return val1 > val2 ? val1 : val2 });",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbq383qmvk0gsg6o6go",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1671129000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-13152 Facility Management",
+  "time": 540,
+  "duration": 240,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Facility Management list UI(single add/edit, search)",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbq3a0208l8k58992c",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1671129000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-13155 Facility Management",
+  "time": 780,
+  "duration": 300,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Add/Edit single facility UI(Name, Abbrv, Sip setting and Telephony Dialing Rule)",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbbra41bxyz17ny8hnc",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1670265000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PN-112276",
+  "time": 600,
+  "duration": 540,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "SPA search functionality",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbq3cd2jqpndo3ovhn",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1671129000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PN-117279 - Bug fix",
+  "time": 600,
+  "duration": 240,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "Payment history page UI bug fixes",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbq3iev5kjlt8e9jtog",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1671129000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PN-123082 - S20 - Employer Dashboard - Blue Banner",
+  "time": 540,
+  "duration": 60,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "Checked task. Nothing to do",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbvtrver2ft5s00am1o",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1671474600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Interview - Shanil Sasikumar (React Architect)",
+  "time": 840,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Candidate name: Shanil Sasikumar (React Architect)\nStatus: Selected to next round\nTotal Exp: 10 years\nPrevious company: SODTECH\nCurrent company: Citrus - 9years\n\nangular\nreact\n\nnodejs\n\nuseEffect(()=>{},[]);\nconst [myData,setMyData] = usestate('');\nuseContext - useProvider, useSelector\ncontrolled/uncontrolled components - useRef for uncontrolled\nlifecycle methods - componentWillUmount in functional component\nmemoise component - useMemo\nstart react project - create-react-app\nreact navigation - history push\n\nfetching data - axios\njwt - access and refresh tokens\n\ndestructuring\nconst a = [1, 2, 3, 4];\nconst [b, c, , e] = a;\nsetTimeout(() => {\n    console.log(1);\n}, 0);\nconsole.log(2);\nconsole.log(3);\n2,3,1\n\nconst a = [8,5,9,3,6,4,3,2,5,1,2];\na.sort(); // sort descending\na.filter(); // get even numbers\n\ndestructuring - useState // don't know\n\nconst obj = {\n    name: 'vijeesh',\n    child: {\n        val1: 'value'\n    }\n}\nconst [child:{val}] = obj\n\nReconscialation\n\nkey in list\nsass\ndisplay none/visibility hidden\n\nRWD - Media query, Bootstrap, Material UI\n\nPWA\n\n",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbx6w5g2pitfcvkkt4",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1671388200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-13152",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Facility Management: Facility Management list UI(single add/edit, search)",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbx6wxwrt3asewy209",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1671474600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-13152",
+  "time": 540,
+  "duration": 180,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Facility Management: Facility Management list UI(single add/edit, search)",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbx6yb2bwynhx5b0vms",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1671474600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-13155",
+  "time": 720,
+  "duration": 360,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Facility Management: Add/Edit single facility UI(Name, Abbrv, Sip setting and Telephony Dialing Rule)",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lb5wrir1jp7v2fs48j",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1669919400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Checking all APIs",
+  "time": 540,
+  "duration": 180,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lbx6yzlp4clpku8no43",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1671561000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-13155",
+  "time": 540,
+  "duration": 180,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Facility Management: Add/Edit single facility UI(Name, Abbrv, Sip setting and Telephony Dialing Rule)",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lboolsogxrqhfozwth",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1670956200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "API integration - Employer dashboard and contribution history",
+  "time": 720,
+  "duration": 360,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "laqbjcikkv17c2myru",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1669055400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Pandiarajan P (React JS Architect)",
+  "time": 1020,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Interview Invitation_Elixr - Pandiarajan P (React JS Architect)\n\nangular 1x 4years\nangular 2 1 project\nagile 6years\n\nreact\nuni directional approach\nstates and propes\nredux\nhooks\nlifecycle methods",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lc4udkw3yxdujpyuf7",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1671561000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-13179",
+  "time": 720,
+  "duration": 360,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Triage: INSEC 22",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lc4udx0hjcnlx8gcxu8",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1671647400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-13179",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Triage: INSEC 22",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lc4ueii2q8hr5g4lj8j",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1671733800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-13179",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Triage: INSEC 22",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lc4uf0qj5wcymtffzi",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1671993000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-13179",
+  "time": 540,
+  "duration": 240,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Triage: INSEC 22",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lc4ug02khkb2ukq463c",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1671993000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-13155",
+  "time": 780,
+  "duration": 300,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Facility Management: Add/Edit single facility UI(Name, Abbrv, Sip setting and Telephony Dialing Rule)",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lc75k851c1s5f503drv",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1672079400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-13155",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Facility Management: Add/Edit single facility UI(Name, Abbrv, Sip setting and Telephony Dialing Rule)",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lc75kfas333rt51khe8",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1672165800000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "BNYN-13155",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Facility Management: Add/Edit single facility UI(Name, Abbrv, Sip setting and Telephony Dialing Rule)",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcha7y74uns0kh9hxtd",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1672684200000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "BNYN-13591",
+  "time": 840,
+  "duration": 240,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Banyan Admin - Pages don’t have unique page title locator",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcha90ny50u5jloyw98",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1672770600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "BNYN-13645",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Admin UI : Admin settings patients display name format should be with dropdown indication",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lchkp7mefn5lwfcynj",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1672770600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "Employer dashboard",
+  "time": 720,
+  "duration": 240,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "API check",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lchobfp8z7eqcya6jd",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1672943400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Interview - Sajitha S (React Architect)",
+  "time": 840,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Candidate name: Sajitha S (React Architect)\nStatus: Rejected\nReason: Not having enough knowledge in ReactJS, Redux, JS, HTML and CSS\n\nuseEffect(()=>{​​​​ }​​​​,[])\n\nconst [getData,Setdata]=useState([]);\nsetData(array)\n\nconst a = [9,5,1,3,4,6,2,8,3,2,3,6,5];\n\nuseEffect, useState, useContext\nrestructuring, arrow functions",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcilrk7ch8qsssof3bo",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1672857000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "BNYN-13644",
+  "time": 540,
+  "duration": 180,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Admin UI : In Facilities module \"Add Facility\" button should be Placed above the facility list",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lciq59nmarpgp1w2cr",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1672857000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "BNYN-13613",
+  "time": 720,
+  "duration": 360,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Facility Management: UI/UX Telephony dialling rule",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lckb8tgzc9fw7jkf5v",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1672943400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "BNYN-13591",
+  "time": 540,
+  "duration": 180,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Banyan Admin - Pages don’t have unique page title locator",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcoexw6xk4ag8u2ad0q",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1673202600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "INSEC-22",
+  "time": 540,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "https://confluence.mobileheartbeat.com/pages/viewpage.action?pageId=152867856",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcoezb4z3th046ul1r4",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1673202600000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "BNYN-13591",
+  "time": 600,
+  "duration": 480,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Banyan Admin - Pages don’t have unique page title locator",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcpqzunyx7rha4d1if",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1673289000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "BNYN-13613",
+  "time": 540,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Facility Management: UI/UX Telephony dialling rule",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcpwl8qln4oxbs1hu7j",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1673289000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "BNYN-13163",
+  "time": 600,
+  "duration": 480,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Facility Management: Service layer for deleting a hierarchy element",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcr5bjb2oq7xlg646up",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1673375400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "",
+  "name": "BNYN-13163",
+  "time": 540,
+  "duration": 540,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Facility Management: Service layer for deleting a hierarchy element",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrftzy3q5ifvpmbewd",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1673375400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "Interview - Jijo V D (React Architect)",
+  "time": 990,
+  "duration": 60,
+  "company": "ELIXR",
+  "repeat": 0,
+  "description": "Candidate name: Jijo V D (React Architect)\nStatus: \nReason: \n",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrg0vcyfnuqvmm60z",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1673289000000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PN-131624",
+  "time": 1020,
+  "duration": 120,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "Employer Delegate - RBAC login",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+},{
+  "guid": "lcrg1kv3x4hdbzx8k98",
+  "type": "TASK",
+  "date": {
+    "$date": {
+      "$numberLong": "1673375400000"
+    }
+  },
+  "allDay": false,
+  "leaveType": "Casual",
+  "name": "PN-131624",
+  "time": 540,
+  "duration": 540,
+  "company": "ATOS",
+  "repeat": 0,
+  "description": "Employer Delegate - RBAC login",
+  "repeatDays": [
+    "Monday"
+  ],
+  "exceptionDates": [],
+  "interviewStatus": 1
+}]
