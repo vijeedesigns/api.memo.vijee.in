@@ -29,10 +29,6 @@ server.get("/", (req, res) => {
         <div>Welcome to memo.vijee.in API.</div>
         <div>V1.0.2</div>
         <div>20240306</div>
-        <div>${process.env.DB_HOST}</div>
-        <div>${process.env.DB_USER}</div>
-        <div>${process.env.DB_PASSWORD}</div>
-        <div>${process.env.DB_NAME}</div>
     </div>`);
 });
 
