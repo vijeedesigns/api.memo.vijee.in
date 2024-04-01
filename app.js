@@ -90,5 +90,5 @@ const RouteExcels = require("./src/routes/route-excels");
 server.use("/excels", RouteExcels);
 
 server.listen(process.env.PORT, () => {
-    console.log(`api.memo.vijee.in app listening on port ${process.env.PORT}`);
+    console.log(`api.memo.vijee.in app listening on http://localhost:${process.env.PORT}`);
 });
