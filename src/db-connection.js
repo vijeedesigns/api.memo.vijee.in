@@ -7,13 +7,6 @@ var connection = mysql.createConnection({
     database: process.env.DB_NAME,
 });
 
-// var connection = mysql.createConnection({
-//     host: 'localhost',
-//     user: 'vijeein_vijeesh_narayanan',
-//     password: '4HGBbTo%R&s1',
-//     database: 'vijeein_admin',
-// });
-
 exports.query = function(sql, callback) {
     connection?.query(sql, function (error, results, fields) {
         if (error) {
