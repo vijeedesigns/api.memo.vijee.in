@@ -60,8 +60,8 @@ server.use("/transactions", RouteTransactions);
 const RouteDues = require("./src/routes/route-dues");
 server.use("/dues", RouteDues);
 
-// const { RouteImage } = require("./src/routes/route-image");
-// server.use("/image", RouteImage);
+const { RouteImage } = require("./src/routes/route-image");
+server.use("/image", RouteImage);
 
 const RouteCompanies = require("./src/routes/route-companies");
 server.use("/companies", RouteCompanies);
