@@ -69,17 +69,17 @@ server.use("/companies", RouteCompanies);
 const RouteLocker = require("./src/routes/route-locker");
 server.use("/notes", RouteLocker);
 
-// const RouteUploads = require("./src/routes/route-uploads");
-// server.use("/uploads", RouteUploads);
+const RouteUploads = require("./src/routes/route-uploads");
+server.use("/uploads", RouteUploads);
 
 const RoutePayslips = require("./src/routes/route-payslips");
 server.use("/payslips", RoutePayslips);
 
-// const RouteAncestry = require("./src/routes/route-ancestry");
-// server.use("/ancestry", RouteAncestry);
+const RouteAncestry = require("./src/routes/route-ancestry");
+server.use("/ancestry", RouteAncestry);
 
-// const RoutePhotos = require("./src/routes/route-photos");
-// server.use("/photos", RoutePhotos);
+const RoutePhotos = require("./src/routes/route-photos");
+server.use("/photos", RoutePhotos);
 
 const RouteProjects = require("./src/routes/route-projects");
 server.use("/projects", RouteProjects);
