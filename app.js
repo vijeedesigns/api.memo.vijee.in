@@ -39,26 +39,26 @@ server.get("/", (req, res) => {
 const { RouteAuth } = require("./src/routes/route-auth");
 server.use("/auth", RouteAuth);
 
-// const RouteUsers = require("./src/routes/route-users");
-// server.use("/users", RouteUsers);
+const RouteUsers = require("./src/routes/route-users");
+server.use("/users", RouteUsers);
 
-// const RouteExpenses = require("./src/routes/route-expenses");
-// server.use("/expenses", RouteExpenses);
+const RouteExpenses = require("./src/routes/route-expenses");
+server.use("/expenses", RouteExpenses);
 
-// const RouteExpenseAccounts = require("./src/routes/route-expense-accounts");
-// server.use("/expense-accounts", RouteExpenseAccounts);
+const RouteExpenseAccounts = require("./src/routes/route-expense-accounts");
+server.use("/expense-accounts", RouteExpenseAccounts);
 
-// const RouteMonthlyExpenses = require("./src/routes/route-monthly-expenses");
-// server.use("/monthly-expenses", RouteMonthlyExpenses);
+const RouteMonthlyExpenses = require("./src/routes/route-monthly-expenses");
+server.use("/monthly-expenses", RouteMonthlyExpenses);
 
-// const RouteEvents = require("./src/routes/route-events");
-// server.use("/events", RouteEvents);
+const RouteEvents = require("./src/routes/route-events");
+server.use("/events", RouteEvents);
 
-// const RouteTransactions = require("./src/routes/route-transactions");
-// server.use("/transactions", RouteTransactions);
+const RouteTransactions = require("./src/routes/route-transactions");
+server.use("/transactions", RouteTransactions);
 
-// const RouteDues = require("./src/routes/route-dues");
-// server.use("/dues", RouteDues);
+const RouteDues = require("./src/routes/route-dues");
+server.use("/dues", RouteDues);
 
 // const { RouteImage } = require("./src/routes/route-image");
 // server.use("/image", RouteImage);
