@@ -63,35 +63,35 @@ server.use("/dues", RouteDues);
 // const { RouteImage } = require("./src/routes/route-image");
 // server.use("/image", RouteImage);
 
-// const RouteCompanies = require("./src/routes/route-companies");
-// server.use("/companies", RouteCompanies);
+const RouteCompanies = require("./src/routes/route-companies");
+server.use("/companies", RouteCompanies);
 
-// const RouteLocker = require("./src/routes/route-locker");
-// server.use("/notes", RouteLocker);
+const RouteLocker = require("./src/routes/route-locker");
+server.use("/notes", RouteLocker);
 
-// const RouteUploads = require("./src/routes/route-uploads");
-// server.use("/uploads", RouteUploads);
+const RouteUploads = require("./src/routes/route-uploads");
+server.use("/uploads", RouteUploads);
 
-// const RoutePayslips = require("./src/routes/route-payslips");
-// server.use("/payslips", RoutePayslips);
+const RoutePayslips = require("./src/routes/route-payslips");
+server.use("/payslips", RoutePayslips);
 
-// const RouteAncestry = require("./src/routes/route-ancestry");
-// server.use("/ancestry", RouteAncestry);
+const RouteAncestry = require("./src/routes/route-ancestry");
+server.use("/ancestry", RouteAncestry);
 
-// const RoutePhotos = require("./src/routes/route-photos");
-// server.use("/photos", RoutePhotos);
+const RoutePhotos = require("./src/routes/route-photos");
+server.use("/photos", RoutePhotos);
 
-// const RouteProjects = require("./src/routes/route-projects");
-// server.use("/projects", RouteProjects);
+const RouteProjects = require("./src/routes/route-projects");
+server.use("/projects", RouteProjects);
 
-// const RouteFinancialCalculation = require("./src/routes/route-financial-calculations");
-// server.use("/financial-calculations", RouteFinancialCalculation);
+const RouteFinancialCalculation = require("./src/routes/route-financial-calculations");
+server.use("/financial-calculations", RouteFinancialCalculation);
 
-// const RouteContacts = require("./src/routes/route-contacts");
-// server.use("/contacts", RouteContacts);
+const RouteContacts = require("./src/routes/route-contacts");
+server.use("/contacts", RouteContacts);
 
-// const RouteExcels = require("./src/routes/route-excels");
-// server.use("/excels", RouteExcels);
+const RouteExcels = require("./src/routes/route-excels");
+server.use("/excels", RouteExcels);
 
 server.listen(process.env.PORT, () => {
     console.log(`api.memo.vijee.in app listening on http://localhost:${process.env.PORT}`);
