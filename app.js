@@ -87,8 +87,8 @@ server.use("/projects", RouteProjects);
 const RouteFinancialCalculation = require("./src/routes/route-financial-calculations");
 server.use("/financial-calculations", RouteFinancialCalculation);
 
-// const RouteContacts = require("./src/routes/route-contacts");
-// server.use("/contacts", RouteContacts);
+const RouteContacts = require("./src/routes/route-contacts");
+server.use("/contacts", RouteContacts);
 
 const RouteExcels = require("./src/routes/route-excels");
 server.use("/excels", RouteExcels);
