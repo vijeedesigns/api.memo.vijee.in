@@ -40,10 +40,10 @@ RouteAuth.get("/", (req, res) => {
 
 // get nonce route
 RouteAuth.get("/get-nonce", (req, res) => {
-    response200(res, `Nonce`, { nonce: 'sdfsdfsdfdffds' });
-    // const cipher = crypto.createCipheriv(algorithm, key, iv, {
-    //     authTagLength: 16,
-    // });
+    const cipher = crypto.createCipheriv(algorithm, key, iv, {
+        authTagLength: 16,
+    });
+    response200(res, `Nonce`, { cipher });
     // const cipherUpdate = cipher.update(plainText, "utf8", "hex");
     // const nonce = cipherUpdate + cipher.final("hex");
     // const tag = cipher.getAuthTag().toString("hex");
