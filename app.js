@@ -39,26 +39,26 @@ server.get("/", (req, res) => {
 const { RouteAuth } = require("./src/routes/route-auth");
 server.use("/auth", RouteAuth);
 
-// const RouteUsers = require("./src/routes/route-users");
-// server.use("/users", RouteUsers);
+const RouteUsers = require("./src/routes/route-users");
+server.use("/users", RouteUsers);
 
-// const RouteExpenses = require("./src/routes/route-expenses");
-// server.use("/expenses", RouteExpenses);
+const RouteExpenses = require("./src/routes/route-expenses");
+server.use("/expenses", RouteExpenses);
 
-// const RouteExpenseAccounts = require("./src/routes/route-expense-accounts");
-// server.use("/expense-accounts", RouteExpenseAccounts);
+const RouteExpenseAccounts = require("./src/routes/route-expense-accounts");
+server.use("/expense-accounts", RouteExpenseAccounts);
 
-// const RouteMonthlyExpenses = require("./src/routes/route-monthly-expenses");
-// server.use("/monthly-expenses", RouteMonthlyExpenses);
+const RouteMonthlyExpenses = require("./src/routes/route-monthly-expenses");
+server.use("/monthly-expenses", RouteMonthlyExpenses);
 
-// const RouteEvents = require("./src/routes/route-events");
-// server.use("/events", RouteEvents);
+const RouteEvents = require("./src/routes/route-events");
+server.use("/events", RouteEvents);
 
-// const RouteTransactions = require("./src/routes/route-transactions");
-// server.use("/transactions", RouteTransactions);
+const RouteTransactions = require("./src/routes/route-transactions");
+server.use("/transactions", RouteTransactions);
 
-// const RouteDues = require("./src/routes/route-dues");
-// server.use("/dues", RouteDues);
+const RouteDues = require("./src/routes/route-dues");
+server.use("/dues", RouteDues);
 
 // const { RouteImage } = require("./src/routes/route-image");
 // server.use("/image", RouteImage);
@@ -66,8 +66,8 @@ server.use("/auth", RouteAuth);
 // const RouteCompanies = require("./src/routes/route-companies");
 // server.use("/companies", RouteCompanies);
 
-// const RouteLocker = require("./src/routes/route-locker");
-// server.use("/notes", RouteLocker);
+const RouteLocker = require("./src/routes/route-locker");
+server.use("/notes", RouteLocker);
 
 // const RouteUploads = require("./src/routes/route-uploads");
 // server.use("/uploads", RouteUploads);
@@ -81,17 +81,17 @@ server.use("/auth", RouteAuth);
 // const RoutePhotos = require("./src/routes/route-photos");
 // server.use("/photos", RoutePhotos);
 
-// const RouteProjects = require("./src/routes/route-projects");
-// server.use("/projects", RouteProjects);
+const RouteProjects = require("./src/routes/route-projects");
+server.use("/projects", RouteProjects);
 
-// const RouteFinancialCalculation = require("./src/routes/route-financial-calculations");
-// server.use("/financial-calculations", RouteFinancialCalculation);
+const RouteFinancialCalculation = require("./src/routes/route-financial-calculations");
+server.use("/financial-calculations", RouteFinancialCalculation);
 
 // const RouteContacts = require("./src/routes/route-contacts");
 // server.use("/contacts", RouteContacts);
 
-// const RouteExcels = require("./src/routes/route-excels");
-// server.use("/excels", RouteExcels);
+const RouteExcels = require("./src/routes/route-excels");
+server.use("/excels", RouteExcels);
 
 server.listen(process.env.PORT, () => {
     console.log(`api.memo.vijee.in app listening on http://localhost:${process.env.PORT}`);
