@@ -43,9 +43,9 @@ RouteAuth.get("/get-nonce", (req, res) => {
     const cipher = crypto.createCipheriv(algorithm, key, iv, {
         authTagLength: 16,
     });
-    response200(res, `Nonce`, { cipher });
-    // const cipherUpdate = cipher.update(plainText, "utf8", "hex");
-    // const nonce = cipherUpdate + cipher.final("hex");
+    const cipherUpdate = cipher.update(plainText, "utf8", "hex");
+    const nonce = cipherUpdate + cipher.final("hex");
+    response200(res, `Nonce`, { nonce });
     // const tag = cipher.getAuthTag().toString("hex");
     // response200(res, `Nonce`, { nonce, tag });
 });
