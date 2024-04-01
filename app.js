@@ -36,8 +36,8 @@ server.get("/", (req, res) => {
     </div>`);
 });
 
-// const { RouteAuth } = require("./src/routes/route-auth");
-// server.use("/auth", RouteAuth);
+const { RouteAuth } = require("./src/routes/route-auth");
+server.use("/auth", RouteAuth);
 
 // const RouteUsers = require("./src/routes/route-users");
 // server.use("/users", RouteUsers);
