@@ -17,7 +17,7 @@ RouteCompanies.get('/get-list', (req, res) => {
                     guid: item?.guid,
                     name: item?.name,
                     datefrom: item?.datefrom,
-                    dateto: item?.dateto,
+                    dateto: item?.dateto !== 'null' ? item?.dateto : null,
                     type: item?.type,
                     role: item?.role,
                     tag: item?.tag,
@@ -34,7 +34,7 @@ RouteCompanies.post('/add-edit', (req, res) => {
     validateTokenThen(req, res, () => {
         const { guid=null, name, datefrom, dateto, type, role, tag, color } = req.body;
         if(guid) {
-            mysqlConnection.query(QUERY.EDIT_COMPANY(`SET name='${name}', datefrom='${datefrom}', dateto='${dateto}', type='${type}', role='${role}', tag='${tag}', color='${color}' WHERE guid='${guid}'`), function (error2, results) {
+            mysqlConnection.query(QUERY.EDIT_COMPANY(`SET name='${name}', datefrom='${datefrom}', dateto='${dateto?dateto:""}', type='${type}', role='${role}', tag='${tag}', color='${color}' WHERE guid='${guid}'`), function (error2, results) {
                 if (error2) throw error2;
                 if(!!results?.affectedRows) {
                     response200(res, `Company ${name} updated!`, { guid, name, datefrom, dateto, type, role, tag, color });
@@ -42,7 +42,7 @@ RouteCompanies.post('/add-edit', (req, res) => {
             });
         } else {
             const guid = generateGuid();
-            mysqlConnection.query(QUERY.ADD_COMPANY(`(guid, name, datefrom, dateto, type, role, tag, color) VALUES ('${guid}','${name}','${datefrom}','${dateto}','${type}','${role}','${tag}','${color}')`), function (error, results) {
+            mysqlConnection.query(QUERY.ADD_COMPANY(`(guid, name, datefrom, dateto, type, role, tag, color) VALUES ('${guid}','${name}','${datefrom}','${dateto?dateto:""}','${type}','${role}','${tag}','${color}')`), function (error, results) {
                 if (error) throw error;
                 if(!!results?.affectedRows) {
                     response200(res, `Company ${name} created!`, { guid, name, datefrom, dateto, type, role, tag, color });
