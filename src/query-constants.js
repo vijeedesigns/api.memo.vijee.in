@@ -60,7 +60,7 @@ const QUERY = {
     EDIT_MONTHLY_EXPENSE_STATUS: body => "UPDATE `" + TABLES.MONTHLY_EXPENSE_STATUS + "` " + body,
     DELETE_MONTHLY_EXPENSE_STATUS: guid => "DELETE FROM `" + TABLES.MONTHLY_EXPENSE_STATUS + "` WHERE guid='" + guid + "'",
     // Notes
-    GET_NOTES: () => "SELECT * FROM `" + TABLES.NOTES + "`",
+    GET_NOTES: () => "SELECT * FROM `" + TABLES.NOTES + "` WHERE visible='1'",
     GET_NOTE: guid => "SELECT * FROM `" + TABLES.NOTES + "` WHERE guid='" + guid + "'",
     ADD_NOTE: body => "INSERT INTO `" + TABLES.NOTES + "` " + body,
     EDIT_NOTE: body => "UPDATE `" + TABLES.NOTES + "` " + body,
