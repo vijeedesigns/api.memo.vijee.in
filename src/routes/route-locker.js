@@ -9,7 +9,7 @@ const { QUERY } = require('../query-constants');
 
 // list locker route
 RouteLocker.get('/get-list', (req, res) => {
-    // validateTokenThen(req, res, () => {
+    validateTokenThen(req, res, () => {
         mysqlConnection.query(QUERY.GET_NOTES(), function (error, results) {
             if (error) throw error;
             const result = results?.map(item => {
@@ -21,7 +21,7 @@ RouteLocker.get('/get-list', (req, res) => {
             });
             response200(res, `Note list`, {result});
         });
-    // });
+    });
 });
 
 // add locker route
