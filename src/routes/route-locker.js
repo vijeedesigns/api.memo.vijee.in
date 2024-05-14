@@ -16,7 +16,7 @@ RouteLocker.get('/get-list', (req, res) => {
                 return {
                     guid: item?.guid,
                     title: item?.title,
-                    content: ''//JSON.parse(item?.content)
+                    content: JSON.parse(item?.content)
                 }
             });
             response200(res, `Note list`, {result});
